@@ -1,6 +1,6 @@
 	
-
-<item>
+<channels>
+<channel>
 <name>[COLOR darkslategray]||[/COLOR][COLOR silver]||[/COLOR][COLOR sienna]||[/COLOR] [COLOR white]SEJAM BEM VINDOS - DRACARYS![/COLOR] [COLOR sienna]||[/COLOR][COLOR silver]||[/COLOR][COLOR darkslategray]||[/COLOR]</name>
 <thumbnail>https://ia601500.us.archive.org/16/items/fanartt_202001/BEM%20VINDO.png</thumbnail>
 <externallink>https://</externallink>
@@ -9,7 +9,8 @@
 
 
 [COLOR deeppink]|[/COLOR] - ADDON DRACARYS! - [COLOR deeppink]|[/COLOR]</info>
-</item>
+</channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
