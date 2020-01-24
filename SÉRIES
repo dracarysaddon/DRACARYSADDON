@@ -22,28 +22,6 @@ sequência no dia 14 de janeiro de 2020. Contará com participação especial de
 
 <channels>
 <channel>
-<name>[B]POWER[/B]-[COLOR greenyellow](IMDb 8,2)[/COLOR]</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYjllZjcwNjItMzc1OC00YjRkLWI5YzUtODM1YmEzNjFiYzNhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/POWER%20TEMPORADAS</externallink>
-<fanart>https://m.media-amazon.com/images/M/MV5BYjllZjcwNjItMzc1OC00YjRkLWI5YzUtODM1YmEzNjFiYzNhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</fanart>
-<info>
-
-by [COLOR blue]REDE[/COLOR] CANAIS
-
-[B]Sinopse[/B]
-James "Ghost" St. Patrick é um rico e bem-sucedido dono de uma boate de Nova York. 
-Ele quer construir um império, mas tem só um problema: "Ghost" leva uma vida dupla.
-Quando não está no clube, ele é o chefe de uma das mais lucrativas redes de droga de Nova York, 
-e lida com uma clientela de alto nível. Seu casamento, trabalho e família ficam ameaçados quando ele tenta sair do tráfico. 
-
-
-6 Temporadas[COLOR greenyellow]IMDb 8,2[/COLOR] (2014-2019) </info>
-</channel>
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR white][B]Krypton[/COLOR][/B]-[COLOR greenyellow](IMDb 7,0)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiinjmSkka6JOrk4FsZmrjlNM26.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/KRYPTON%20temporadas</externallink>
@@ -62,6 +40,28 @@ honra de sua família e salvar seu amado mundo do caos.
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B]POWER[/B]-[COLOR greenyellow](IMDb 8,2)[/COLOR]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjllZjcwNjItMzc1OC00YjRkLWI5YzUtODM1YmEzNjFiYzNhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/POWER%20TEMPORADAS</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BYjllZjcwNjItMzc1OC00YjRkLWI5YzUtODM1YmEzNjFiYzNhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</fanart>
+<info>
+
+by [COLOR blue]REDE[/COLOR] CANAIS
+
+[B]Sinopse[/B]
+James "Ghost" St. Patrick é um rico e bem-sucedido dono de uma boate de Nova York. 
+Ele quer construir um império, mas tem só um problema: "Ghost" leva uma vida dupla.
+Quando não está no clube, ele é o chefe de uma das mais lucrativas redes de droga de Nova York, 
+e lida com uma clientela de alto nível. Seu casamento, trabalho e família ficam ameaçados quando ele tenta sair do tráfico. 
+
+
+6 Temporadas[COLOR greenyellow]IMDb 8,2[/COLOR] (2014-2019) </info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
