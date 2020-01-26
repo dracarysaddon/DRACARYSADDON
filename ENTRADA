@@ -1,7 +1,6 @@
 	
-<channels>
-<channel>
-<name>[COLOR darkslategray]||[/COLOR][COLOR silver]||[/COLOR][COLOR sienna]||[/COLOR] [COLOR white]SEJAM BEM VINDOS - DRACARYS![/COLOR] [COLOR sienna]||[/COLOR][COLOR silver]||[/COLOR][COLOR darkslategray]||[/COLOR]</name>
+<item>
+<title>[COLOR lightgray]||[/COLOR][COLOR silver]||[/COLOR][COLOR sienna]||[/COLOR] [COLOR white]SEJAM BEM VINDOS[/COLOR] [COLOR sienna]||[/COLOR][COLOR silver]||[/COLOR][COLOR lightgray]||[/COLOR]</title>
 <thumbnail>https://ia601500.us.archive.org/16/items/fanartt_202001/BEM%20VINDO.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601500.us.archive.org/16/items/fanartt_202001/Fanartt.jpg</fanart>
@@ -9,20 +8,19 @@
 
 
 [COLOR deeppink]|[/COLOR] - ADDON DRACARYS! - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+</item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[COLOR darkslategray]>>[/COLOR][COLOR silver]>>[/COLOR][COLOR sienna]>>>[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR sienna]<<<[/COLOR][COLOR silver]<<[/COLOR][COLOR darkslategray]<<[/COLOR]</name>
+<name>[B][COLOR lightgray]::[/COLOR][COLOR silver]::[/COLOR][COLOR sienna]::[/COLOR][COLOR white]ENTRE AQUI[/COLOR] [COLOR sienna]::[/COLOR][COLOR silver]::[/COLOR][COLOR lightgray]::[/COLOR][/B]</name>
 <thumbnail>https://ia601500.us.archive.org/16/items/fanartt_202001/ENTRAR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/CATEGORIAS</externallink>
 <fanart>https://ia601500.us.archive.org/16/items/fanartt_202001/thumb-1920-869197.jpg</fanart>
 <info>
 
-[COLOR deeppink]>[/COLOR]>AQUI VOCÊ ENCONTRA AS MELHORES SÉRIES E OS MELHORES FILMES DA ATUALIDADE<[COLOR deeppink]<que[/COLOR]</info>
+[COLOR gold]>[/COLOR]>AQUI VOCÊ ENCONTRA AS MELHORES SÉRIES E OS MELHORES FILMES DA ATUALIDADE<[COLOR gold]<[/COLOR]</info>
 </channel>
 </channels>
 
