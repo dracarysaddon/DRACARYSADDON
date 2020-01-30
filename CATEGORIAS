@@ -1,9 +1,9 @@
 <channels>
 <channel>
 <name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]|[/COLOR][COLOR orangered]●[/COLOR][COLOR white] TV AO VIVO[/COLOR][/B]</name>
-<thumbnail>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</thumbnail>
+<thumbnail>https://ia801502.us.archive.org/12/items/mage_20200128/iptv.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</fanart>
+<fanart>https://ia801502.us.archive.org/12/items/mage_20200128/ac5e5e63cf1c68c41dffbde4d88f79fb_XL.jpg</fanart>
 <info>
 
 OS MELHORES CANAIS DE TV SÓ AQUI</info>
@@ -18,7 +18,7 @@ OS MELHORES CANAIS DE TV SÓ AQUI</info>
 <name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]|[/COLOR][COLOR lime]●[/COLOR][COLOR white] FILMES[/COLOR][/B]</name>
 <thumbnail>https://ia601409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/FILMES</externallink>
-<fanart>https://ia601409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
+<fanart>https://ia801502.us.archive.org/12/items/mage_20200128/FILMES.jpg</fanart>
 <info>
 
 
@@ -27,25 +27,36 @@ OS MELHORES LANÇAMENTOS </info>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 
 <name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]|[/COLOR][COLOR lime]●[/COLOR][COLOR white] SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/S%C3%89RIES</externallink>
-<fanart>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</fanart>
+<fanart>https://ia801502.us.archive.org/12/items/mage_20200128/plano%20de%20fundoS%C3%89RIE.png</fanart>
 <info>
 
 AS MELHORES SÉRIES DA ATUALIDADE </info>
 </channel>
 </channels>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
 
-<name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]||[/COLOR][COLOR lime]●[/COLOR][COLOR white] DESENHOS[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]|[/COLOR][COLOR lime]●[/COLOR][COLOR white] ANIME[/COLOR][/B]</name>
+<thumbnail>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/DESENHO</externallink>
+<fanart>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</fanart>
+<info>
+
+OS MELHORES DESENHOS PARA SUA ANIMAÇÃO</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+
+<name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]|[/COLOR][COLOR lime]●[/COLOR][COLOR white] DESENHOS[/COLOR][/B]</name>
 <thumbnail>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/dracarysaddon/DRACARYSADDON/master/DESENHO</externallink>
 <fanart>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</fanart>
@@ -60,7 +71,7 @@ OS MELHORES DESENHOS PARA SUA ANIMAÇÃO</info>
 <channels>
 <channel>
 
-<name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]||[/COLOR][COLOR orangered]●[/COLOR][COLOR white]TOKUSATSU[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]|[/COLOR][COLOR orangered]●[/COLOR][COLOR white]TOKUSATSU[/COLOR][/B]</name>
 <thumbnail>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</fanart>
@@ -74,7 +85,7 @@ OS MELHORES ANIMES PARA SUA CURTIÇÃO</info>
 <channels>
 <channel>
 
-<name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]||[/COLOR][COLOR orangered]●[/COLOR][COLOR white]NOVELAS[/COLOR][/B]</name>
+<name>[B][COLOR goldenrod]DRACARYS[/COLOR]Ent.[COLOR white]|[/COLOR][COLOR orangered]●[/COLOR][COLOR white]NOVELAS[/COLOR][/B]</name>
 <thumbnail>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601401.us.archive.org/26/items/series_20200124/S%C3%89RIES.png</fanart>
