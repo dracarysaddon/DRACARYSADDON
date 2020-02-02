@@ -1,3357 +1,1526 @@
-#EXTM3U
-#EXTINF:-1,GLOBO RJ FHD
-http://elitex.me:80/live/cristianne/cristianne/5789.ts
 #EXTINF:-1,GLOBO RJ HD
-http://elitex.me:80/live/cristianne/cristianne/345.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/345
 #EXTINF:-1,GLOBO RJ HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/2823.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2823
 #EXTINF:-1,GLOBO RJ SD
-http://elitex.me:80/live/cristianne/cristianne/4860.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4860
 #EXTINF:-1,GLOBO SP FHD
-http://elitex.me:80/live/cristianne/cristianne/6283.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6283
 #EXTINF:-1,GLOBO SP FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17028.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17028
 #EXTINF:-1,GLOBO SP HD
-http://elitex.me:80/live/cristianne/cristianne/2821.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2821
 #EXTINF:-1,GLOBO SP HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/16848.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16848
 #EXTINF:-1,GLOBO SP HD [A]
-http://elitex.me:80/live/cristianne/cristianne/6277.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6277
 #EXTINF:-1,GLOBO SP SD
-http://elitex.me:80/live/cristianne/cristianne/4913.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4913
 #EXTINF:-1,GLOBO SP SD [A]
-http://elitex.me:80/live/cristianne/cristianne/343.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/343
 #EXTINF:-1,GLOBO BRASILIA FHD
-http://elitex.me:80/live/cristianne/cristianne/9598.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9598
 #EXTINF:-1,GLOBO BRASILIA HD
-http://elitex.me:80/live/cristianne/cristianne/4893.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4893
 #EXTINF:-1,GLOBO BRASILIA HD [A]
-http://elitex.me:80/live/cristianne/cristianne/6555.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6555
 #EXTINF:-1,GLOBO BRASILIA SD
-http://elitex.me:80/live/cristianne/cristianne/2829.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2829
 #EXTINF:-1,GLOBO MINAS FHD
-http://elitex.me:80/live/cristianne/cristianne/4801.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4801
 #EXTINF:-1,GLOBO MINAS HD
-http://elitex.me:80/live/cristianne/cristianne/5556.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5556
 #EXTINF:-1,GLOBO MINAS HD [A]
-http://elitex.me:80/live/cristianne/cristianne/7171.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7171
 #EXTINF:-1,GLOBO MINAS SD
-http://elitex.me:80/live/cristianne/cristianne/341.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/341
 #EXTINF:-1,GLOBO NORDESTE FHD
-http://elitex.me:80/live/cristianne/cristianne/5407.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5407
 #EXTINF:-1,GLOBO NORDESTE HD
-http://elitex.me:80/live/cristianne/cristianne/5292.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5292
 #EXTINF:-1,GLOBO NORDESTE SD
-http://elitex.me:80/live/cristianne/cristianne/5782.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5782
 #EXTINF:-1,GLOBO TV INTEGRACAO MINAS FHD
-http://elitex.me:80/live/cristianne/cristianne/11263.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11263
 #EXTINF:-1,GLOBO EPTV CAMPINAS FHD
-http://elitex.me:80/live/cristianne/cristianne/9597.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9597
 #EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://elitex.me:80/live/cristianne/cristianne/5595.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5595
 #EXTINF:-1,GLOBO EPTV CAMPINAS SD
-http://elitex.me:80/live/cristianne/cristianne/4864.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4864
 #EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD
-http://elitex.me:80/live/cristianne/cristianne/9824.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9824
 #EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
-http://elitex.me:80/live/cristianne/cristianne/6558.ts
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
-http://elitex.me:80/live/cristianne/cristianne/4863.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6558
+#EXTINF:-1,GLOBO EPTV RIBEIRÃƒO PRETO SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4863
 #EXTINF:-1,GLOBO EPTV CENTRAL SAO CARLOS SD
-http://elitex.me:80/live/cristianne/cristianne/5549.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5549
 #EXTINF:-1,GLOBO EPTV ARARAQUARA SD
-http://elitex.me:80/live/cristianne/cristianne/6557.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6557
 #EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO FHD
-http://elitex.me:80/live/cristianne/cristianne/9586.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9586
 #EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO HD
-http://elitex.me:80/live/cristianne/cristianne/9599.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9599
 #EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO SD
-http://elitex.me:80/live/cristianne/cristianne/4856.ts
-#EXTINF:-1,GLOBO TV TEM BAURU SD
-http://elitex.me:80/live/cristianne/cristianne/4857.ts
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD
-http://elitex.me:80/live/cristianne/cristianne/317.ts
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
-http://elitex.me:80/live/cristianne/cristianne/4859.ts
-#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS SD
-http://elitex.me:80/live/cristianne/cristianne/6552.ts
-#EXTINF:-1,GLOBO TV RIO SUL FHD
-http://elitex.me:80/live/cristianne/cristianne/11213.ts
-#EXTINF:-1,GLOBO TV RIO SUL HD
-http://elitex.me:80/live/cristianne/cristianne/11212.ts
-#EXTINF:-1,GLOBO TV RIO SUL SD
-http://elitex.me:80/live/cristianne/cristianne/11211.ts
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL FHD
-http://elitex.me:80/live/cristianne/cristianne/11240.ts
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
-http://elitex.me:80/live/cristianne/cristianne/11239.ts
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL SD
-http://elitex.me:80/live/cristianne/cristianne/11238.ts
-#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
-http://elitex.me:80/live/cristianne/cristianne/11231.ts
-#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
-http://elitex.me:80/live/cristianne/cristianne/11230.ts
-#EXTINF:-1,GLOBO INTER TV SERRA MAR SD
-http://elitex.me:80/live/cristianne/cristianne/11229.ts
-#EXTINF:-1,GLOBO TV GAZETA VITORIA FHD
-http://elitex.me:80/live/cristianne/cristianne/9515.ts
-#EXTINF:-1,GLOBO TV GAZETA VITÓRIA HD
-http://elitex.me:80/live/cristianne/cristianne/9514.ts
-#EXTINF:-1,GLOBO TV GAZETA VITÓRIA SD
-http://elitex.me:80/live/cristianne/cristianne/9516.ts
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FHD
-http://elitex.me:80/live/cristianne/cristianne/9595.ts
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
-http://elitex.me:80/live/cristianne/cristianne/2777.ts
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD
-http://elitex.me:80/live/cristianne/cristianne/321.ts
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD
-http://elitex.me:80/live/cristianne/cristianne/11225.ts
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
-http://elitex.me:80/live/cristianne/cristianne/11224.ts
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL SD
-http://elitex.me:80/live/cristianne/cristianne/11223.ts
-#EXTINF:-1,GLOBO RBS TV PELOTAS FHD
-http://elitex.me:80/live/cristianne/cristianne/11219.ts
-#EXTINF:-1,GLOBO RBS TV PELOTAS HD
-http://elitex.me:80/live/cristianne/cristianne/11218.ts
-#EXTINF:-1,GLOBO RBS TV PELOTAS SD
-http://elitex.me:80/live/cristianne/cristianne/11217.ts
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD
-http://elitex.me:80/live/cristianne/cristianne/9596.ts
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
-http://elitex.me:80/live/cristianne/cristianne/6269.ts
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS SD
-http://elitex.me:80/live/cristianne/cristianne/6559.ts
-#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
-http://elitex.me:80/live/cristianne/cristianne/9525.ts
-#EXTINF:-1,GLOBO NSC TV CHAPECO HD
-http://elitex.me:80/live/cristianne/cristianne/9524.ts
-#EXTINF:-1,GLOBO NSC TV CHAPECO SD
-http://elitex.me:80/live/cristianne/cristianne/9523.ts
-#EXTINF:-1,GLOBO NSC TV BLUMENAU FHD
-http://elitex.me:80/live/cristianne/cristianne/11228.ts
-#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
-http://elitex.me:80/live/cristianne/cristianne/11227.ts
-#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
-http://elitex.me:80/live/cristianne/cristianne/11226.ts
-#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
-http://elitex.me:80/live/cristianne/cristianne/11222.ts
-#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
-http://elitex.me:80/live/cristianne/cristianne/11221.ts
-#EXTINF:-1,GLOBO NSC TV JOINVILLE SD
-http://elitex.me:80/live/cristianne/cristianne/11220.ts
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD
-http://elitex.me:80/live/cristianne/cristianne/9521.ts
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
-http://elitex.me:80/live/cristianne/cristianne/9520.ts
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU SD
-http://elitex.me:80/live/cristianne/cristianne/9522.ts
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-http://elitex.me:80/live/cristianne/cristianne/6561.ts
-#EXTINF:-1,GLOBO RPC CURITIBA SD
-http://elitex.me:80/live/cristianne/cristianne/4793.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4856
 #EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD
-http://elitex.me:80/live/cristianne/cristianne/11234.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11234
 #EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
-http://elitex.me:80/live/cristianne/cristianne/11233.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11233
 #EXTINF:-1,GLOBO INTER TV GRANDE MINAS SD
-http://elitex.me:80/live/cristianne/cristianne/11232.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11232
 #EXTINF:-1,GLOBO INTER TV DOS VALES FHD
-http://elitex.me:80/live/cristianne/cristianne/11237.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11237
 #EXTINF:-1,GLOBO INTER TV DOS VALES HD
-http://elitex.me:80/live/cristianne/cristianne/11236.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11236
 #EXTINF:-1,GLOBO INTER TV DOS VALES SD
-http://elitex.me:80/live/cristianne/cristianne/11235.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11235
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4857
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/317
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4859
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6552
+#EXTINF:-1,GLOBO TV RIO SUL FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11213
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11212
+#EXTINF:-1,GLOBO TV RIO SUL SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11211
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11240
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11239
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11238
+#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11231
+#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11230
+#EXTINF:-1,GLOBO INTER TV SERRA MAR SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11229
+#EXTINF:-1,GLOBO TV GAZETA VITORIA FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9515
+#EXTINF:-1,GLOBO TV GAZETA VITÃ“RIA HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9514
+#EXTINF:-1,GLOBO TV GAZETA VITÃ“RIA SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9516
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9595
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2777
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/321
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11225
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11224
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11223
+#EXTINF:-1,GLOBO RBS TV PELOTAS FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11219
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11218
+#EXTINF:-1,GLOBO RBS TV PELOTAS SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11217
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9596
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6269
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6559
+#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9525
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9524
+#EXTINF:-1,GLOBO NSC TV CHAPECO SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9523
+#EXTINF:-1,GLOBO NSC TV BLUMENAU FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11228
+#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11227
+#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11226
+#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11222
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11221
+#EXTINF:-1,GLOBO NSC TV JOINVILLE SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11220
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9521
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9520
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9522
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6561
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4793
 #EXTINF:-1,GLOBO INTER TV CABUGI SD
-http://elitex.me:80/live/cristianne/cristianne/5780.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5780
 #EXTINF:-1,GLOBO TV CABO BRANCO FHD
-http://elitex.me:80/live/cristianne/cristianne/11216.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11216
 #EXTINF:-1,GLOBO TV CABO BRANCO HD
-http://elitex.me:80/live/cristianne/cristianne/11215.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11215
 #EXTINF:-1,GLOBO TV CABO BRANCO SD
-http://elitex.me:80/live/cristianne/cristianne/11214.ts
-#EXTINF:-1,GLOBO TV GRANDE RIO PETROLINA FHD
-http://elitex.me:80/live/cristianne/cristianne/11258.ts
-#EXTINF:-1,GLOBO TV SAO FRANCISCO FHD JUAZEIRO
-http://elitex.me:80/live/cristianne/cristianne/11256.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11214
 #EXTINF:-1,GLOBO TV BAHIA FHD
-http://elitex.me:80/live/cristianne/cristianne/9593.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9593
 #EXTINF:-1,GLOBO TV BAHIA HD
-http://elitex.me:80/live/cristianne/cristianne/5853.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5853
 #EXTINF:-1,GLOBO TV BAHIA SD
-http://elitex.me:80/live/cristianne/cristianne/5777.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5777
 #EXTINF:-1,GLOBO TV SANTA CRUZ FHD
-http://elitex.me:80/live/cristianne/cristianne/11210.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11210
 #EXTINF:-1,GLOBO TV SANTA CRUZ HD
-http://elitex.me:80/live/cristianne/cristianne/11209.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11209
 #EXTINF:-1,GLOBO TV SANTA CRUZ SD
-http://elitex.me:80/live/cristianne/cristianne/11208.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11208
 #EXTINF:-1,GLOBO TV MIRANTE SAO LUIS FHD
-http://elitex.me:80/live/cristianne/cristianne/9592.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9592
 #EXTINF:-1,GLOBO TV MIRANTE SAO LUIS HD
-http://elitex.me:80/live/cristianne/cristianne/9591.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9591
 #EXTINF:-1,GLOBO TV MIRANTE SAO LUIS SD
-http://elitex.me:80/live/cristianne/cristianne/9590.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9590
 #EXTINF:-1,GLOBO TV SERGIPE FHD
-http://elitex.me:80/live/cristianne/cristianne/9512.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9512
 #EXTINF:-1,GLOBO TV SERGIPE HD
-http://elitex.me:80/live/cristianne/cristianne/9511.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9511
 #EXTINF:-1,GLOBO TV SERGIPE SD
-http://elitex.me:80/live/cristianne/cristianne/9513.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9513
 #EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
-http://elitex.me:80/live/cristianne/cristianne/9655.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9655
 #EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
-http://elitex.me:80/live/cristianne/cristianne/9654.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9654
 #EXTINF:-1,GLOBO TV GAZETA ALAGOAS SD
-http://elitex.me:80/live/cristianne/cristianne/9656.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9656
 #EXTINF:-1,GLOBO TV CLUBE TERESINA FHD
-http://elitex.me:80/live/cristianne/cristianne/9518.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9518
 #EXTINF:-1,GLOBO TV CLUBE TERESINA HD
-http://elitex.me:80/live/cristianne/cristianne/9517.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9517
 #EXTINF:-1,GLOBO TV CLUBE TERESINA SD
-http://elitex.me:80/live/cristianne/cristianne/9519.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9519
 #EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA FHD
-http://elitex.me:80/live/cristianne/cristianne/9594.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9594
 #EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
-http://elitex.me:80/live/cristianne/cristianne/6562.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6562
 #EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD
-http://elitex.me:80/live/cristianne/cristianne/6563.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6563
 #EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE FHD
-http://elitex.me:80/live/cristianne/cristianne/9589.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9589
 #EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE HD
-http://elitex.me:80/live/cristianne/cristianne/9588.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9588
 #EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE SD
-http://elitex.me:80/live/cristianne/cristianne/9587.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9587
 #EXTINF:-1,GLOBO TV C.AMERICA CUIABA SD
-http://elitex.me:80/live/cristianne/cristianne/6564.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6564
 #EXTINF:-1,GLOBO REDE AMAZONICA HD
-http://elitex.me:80/live/cristianne/cristianne/4861.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4861
 #EXTINF:-1,GLOBO REDE AMAZONICA SD
-http://elitex.me:80/live/cristianne/cristianne/5779.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5779
 #EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-http://elitex.me:80/live/cristianne/cristianne/5778.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5778
 #EXTINF:-1,GLOBO TV LIBERAL BELEM SD [A]
-http://elitex.me:80/live/cristianne/cristianne/5548.ts
-#EXTINF:-1,GLOBO VERDES MARES CARIRI JUAZEIRO-NR FHD
-http://elitex.me:80/live/cristianne/cristianne/11260.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5548
 #EXTINF:-1,GLOBO VERDES MARES FHD
-http://elitex.me:80/live/cristianne/cristianne/11250.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11250
 #EXTINF:-1,GLOBO VERDES MARES SD
-http://elitex.me:80/live/cristianne/cristianne/5776.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5776
 #EXTINF:-1,GLOBO USA FHD
-http://elitex.me:80/live/cristianne/cristianne/6500.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6500
+#EXTINF:-1,GLOBO USA HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/18918
 #EXTINF:-1,GLOBO NOW SD
-http://elitex.me:80/live/cristianne/cristianne/1675.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/1675
 #EXTINF:-1,GLOBO PORTUGAL SD [A]
-http://elitex.me:80/live/cristianne/cristianne/4347.ts
-#EXTINF:-1,POWER COUPLE FHD
-http://elitex.me:80/live/cristianne/cristianne/17261.ts
-#EXTINF:-1,POWER COUPLE HD
-http://elitex.me:80/live/cristianne/cristianne/16956.ts
-#EXTINF:-1,POWER COUPLE HD [A]
-http://elitex.me:80/live/cristianne/cristianne/17260.ts
-#EXTINF:-1,POWER COUPLE SD
-http://elitex.me:80/live/cristianne/cristianne/16955.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4347
+#EXTINF:-1,A FAZENDA 11
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/19411
+#EXTINF:-1,A FAZENDA 11 *
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/19412
 #EXTINF:-1,RECORD TV SP FHD
-http://elitex.me:80/live/cristianne/cristianne/6306.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6306
 #EXTINF:-1,RECORD TV SP FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17023.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17023
 #EXTINF:-1,RECORD TV SP HD
-http://elitex.me:80/live/cristianne/cristianne/336.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/336
 #EXTINF:-1,RECORD TV SP HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/8939.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/8939
 #EXTINF:-1,RECORD TV SP HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5098.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5098
 #EXTINF:-1,RECORD TV SP SD
-http://elitex.me:80/live/cristianne/cristianne/337.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/337
 #EXTINF:-1,RECORD TV RJ FHD
-http://elitex.me:80/live/cristianne/cristianne/9820.ts
-#EXTINF:-1,RECORD TV RJ HD
-http://elitex.me:80/live/cristianne/cristianne/9816.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9820
 #EXTINF:-1,RECORD TV RJ SD
-http://elitex.me:80/live/cristianne/cristianne/9823.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9823
 #EXTINF:-1,RECORD TV MG FHD
-http://elitex.me:80/live/cristianne/cristianne/9819.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9819
 #EXTINF:-1,RECORD TV MG HD
-http://elitex.me:80/live/cristianne/cristianne/9821.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9821
 #EXTINF:-1,RECORD TV MG SD
-http://elitex.me:80/live/cristianne/cristianne/9822.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9822
 #EXTINF:-1,RECORD TV BRASILIA FHD
-http://elitex.me:80/live/cristianne/cristianne/10636.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/10636
 #EXTINF:-1,RECORD TV BRASILIA HD
-http://elitex.me:80/live/cristianne/cristianne/10640.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/10640
 #EXTINF:-1,RECORD TV BRASILIA SD
-http://elitex.me:80/live/cristianne/cristianne/10641.ts
-#EXTINF:-1,RECORD TV RS FHD
-http://elitex.me:80/live/cristianne/cristianne/10637.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/10641
 #EXTINF:-1,RECORD TV RS HD
-http://elitex.me:80/live/cristianne/cristianne/10642.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/10642
 #EXTINF:-1,RECORD TV RS SD
-http://elitex.me:80/live/cristianne/cristianne/10643.ts
-#EXTINF:-1,RECORD TV ITAPOAN BAHIA FHD
-http://elitex.me:80/live/cristianne/cristianne/10635.ts
-#EXTINF:-1,RECORD TV ITAPOAN BAHIA HD
-http://elitex.me:80/live/cristianne/cristianne/10638.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/10643
 #EXTINF:-1,RECORD TV ITAPOAN BAHIA SD
-http://elitex.me:80/live/cristianne/cristianne/10639.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/10639
 #EXTINF:-1,RECORD TV CLUBE PE FHD
-http://elitex.me:80/live/cristianne/cristianne/5297.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5297
 #EXTINF:-1,RECORD TV CLUBE PE HD
-http://elitex.me:80/live/cristianne/cristianne/9600.ts
-#EXTINF:-1,RECORD TV REDEMAIS VARGINHA FHD
-http://elitex.me:80/live/cristianne/cristianne/11270.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9600
+#EXTINF:-1,RECORD TV REDE MAIS VARGINHA HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11270
 #EXTINF:-1,RECORD TVB CAMPINAS HD
-http://elitex.me:80/live/cristianne/cristianne/6549.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6549
 #EXTINF:-1,RECORD TV PORTUGAL
-http://elitex.me:80/live/cristianne/cristianne/1717.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/1717
 #EXTINF:-1,BAND FHD
-http://elitex.me:80/live/cristianne/cristianne/6285.ts
-#EXTINF:-1,BAND MINAS FHD
-http://elitex.me:80/live/cristianne/cristianne/11271.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6285
+#EXTINF:-1,BAND MINAS HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11271
 #EXTINF:-1,BAND NORDESTV CEARA FHD
-http://elitex.me:80/live/cristianne/cristianne/11252.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11252
 #EXTINF:-1,BAND HD
-http://elitex.me:80/live/cristianne/cristianne/4895.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4895
 #EXTINF:-1,BAND HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/9032.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9032
 #EXTINF:-1,BAND CAMPINAS HD
-http://elitex.me:80/live/cristianne/cristianne/6548.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6548
 #EXTINF:-1,BAND SD
-http://elitex.me:80/live/cristianne/cristianne/4132.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4132
 #EXTINF:-1,BAND SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7515.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7515
 #EXTINF:-1,SBT FHD
-http://elitex.me:80/live/cristianne/cristianne/2957.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2957
 #EXTINF:-1,SBT HD
-http://elitex.me:80/live/cristianne/cristianne/330.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/330
 #EXTINF:-1,SBT HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/16849.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16849
 #EXTINF:-1,SBT SD
-http://elitex.me:80/live/cristianne/cristianne/4079.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4079
 #EXTINF:-1,SBT TV JORNAL RECIFE FHD
-http://elitex.me:80/live/cristianne/cristianne/6393.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6393
 #EXTINF:-1,SBT TV JORNAL RECIFE HD
-http://elitex.me:80/live/cristianne/cristianne/5270.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5270
 #EXTINF:-1,SBT TV JORNAL RECIFE SD
-http://elitex.me:80/live/cristianne/cristianne/17393.ts
-#EXTINF:-1,SBT TV ARATU BAHIA FHD
-http://elitex.me:80/live/cristianne/cristianne/11261.ts
-#EXTINF:-1,SBT TV JANGADEIRO FORTALEZA FHD
-http://elitex.me:80/live/cristianne/cristianne/11244.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17393
+#EXTINF:-1,SBT TV JANGADEIRO FORTALEZA HD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11244
 #EXTINF:-1,SBT VTV CAMPINAS HD
-http://elitex.me:80/live/cristianne/cristianne/331.ts
-#EXTINF:-1,REDETV! FORTALEZA FHD
-http://elitex.me:80/live/cristianne/cristianne/11247.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/331
 #EXTINF:-1,REDETV! FHD
-http://elitex.me:80/live/cristianne/cristianne/4898.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4898
 #EXTINF:-1,REDETV! HD
-http://elitex.me:80/live/cristianne/cristianne/335.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/335
 #EXTINF:-1,REDETV! HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17140.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17140
 #EXTINF:-1,REDETV! HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5142.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5142
 #EXTINF:-1,REDETV! SD
-http://elitex.me:80/live/cristianne/cristianne/5143.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5143
 #EXTINF:-1,FUTURA FHD
-http://elitex.me:80/live/cristianne/cristianne/9616.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9616
 #EXTINF:-1,FUTURA HD
-http://elitex.me:80/live/cristianne/cristianne/9615.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9615
 #EXTINF:-1,FUTURA SD
-http://elitex.me:80/live/cristianne/cristianne/5600.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5600
 #EXTINF:-1,TV CULTURA SD
-http://elitex.me:80/live/cristianne/cristianne/2741.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2741
 #EXTINF:-1,TV BRASIL SD
-http://elitex.me:80/live/cristianne/cristianne/311.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/311
 #EXTINF:-1,TV GAZETA SP HD
-http://elitex.me:80/live/cristianne/cristianne/4914.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4914
 #EXTINF:-1,TV DIARIO FORTALEZA FHD
-http://elitex.me:80/live/cristianne/cristianne/17262.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17262
 #EXTINF:-1,TV DIARIO FORTALEZA HD
-http://elitex.me:80/live/cristianne/cristianne/17263.ts
-#EXTINF:-1,REDE BRASIL FHD
-http://elitex.me:80/live/cristianne/cristianne/11249.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17263
 #EXTINF:-1,REDE BRASIL SD
-http://elitex.me:80/live/cristianne/cristianne/319.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/319
 #EXTINF:-1,RBI SD
-http://elitex.me:80/live/cristianne/cristianne/35.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/35
 #EXTINF:-1,CANAL DO BOI
-http://elitex.me:80/live/cristianne/cristianne/10667.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/10667
 #EXTINF:-1,CANAL RURAL
-http://elitex.me:80/live/cristianne/cristianne/10666.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/10666
 #EXTINF:-1,TERRA VIVA SD
-http://elitex.me:80/live/cristianne/cristianne/313.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/313
 #EXTINF:-1,TV CAMARA SD
-http://elitex.me:80/live/cristianne/cristianne/9603.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9603
 #EXTINF:-1,TV JUSTICA SD
-http://elitex.me:80/live/cristianne/cristianne/5495.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5495
 #EXTINF:-1,TV SENADO SD
-http://elitex.me:80/live/cristianne/cristianne/9602.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9602
 #EXTINF:-1,NBR SD
-http://elitex.me:80/live/cristianne/cristianne/323.ts
-#EXTINF:-1,COMBATE 4K
-http://elitex.me:80/live/cristianne/cristianne/16736.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/323
 #EXTINF:-1,COMBATE FHD
-http://elitex.me:80/live/cristianne/cristianne/5369.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5369
 #EXTINF:-1,COMBATE FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17030.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17030
 #EXTINF:-1,COMBATE HD
-http://elitex.me:80/live/cristianne/cristianne/201.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/201
 #EXTINF:-1,COMBATE HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/4911.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4911
 #EXTINF:-1,COMBATE SD
-http://elitex.me:80/live/cristianne/cristianne/202.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/202
 #EXTINF:-1,COMBATE SD [A]
-http://elitex.me:80/live/cristianne/cristianne/4125.ts
-#EXTINF:-1,SPORTV 4K
-http://elitex.me:80/live/cristianne/cristianne/16734.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4125
+#EXTINF:-1,COMBATE 4K
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16736
 #EXTINF:-1,SPORTV FHD
-http://elitex.me:80/live/cristianne/cristianne/4797.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4797
 #EXTINF:-1,SPORTV FHD [A]
-http://elitex.me:80/live/cristianne/cristianne/5784.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5784
+#EXTINF:-1,SPORTV FHD [3]
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/18727
 #EXTINF:-1,SPORTV HD
-http://elitex.me:80/live/cristianne/cristianne/177.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/177
 #EXTINF:-1,SPORTV HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/4899.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4899
 #EXTINF:-1,SPORTV HD [A]
-http://elitex.me:80/live/cristianne/cristianne/16847.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16847
+#EXTINF:-1,SPORTV HD [3]
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/18728
 #EXTINF:-1,SPORTV SD
-http://elitex.me:80/live/cristianne/cristianne/176.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/176
 #EXTINF:-1,SPORTV SD [A]
-http://elitex.me:80/live/cristianne/cristianne/4075.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4075
+#EXTINF:-1,SPORTV 4K
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16734
 #EXTINF:-1,SPORTV 2 FHD
-http://elitex.me:80/live/cristianne/cristianne/5940.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5940
 #EXTINF:-1,SPORTV 2 FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17021.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17021
 #EXTINF:-1,SPORTV 2 FHD [A]
-http://elitex.me:80/live/cristianne/cristianne/16703.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16703
 #EXTINF:-1,SPORTV 2 HD
-http://elitex.me:80/live/cristianne/cristianne/172.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/172
 #EXTINF:-1,SPORTV 2 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17105.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17105
 #EXTINF:-1,SPORTV 2 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4900.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4900
 #EXTINF:-1,SPORTV 2 SD
-http://elitex.me:80/live/cristianne/cristianne/171.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/171
 #EXTINF:-1,SPORTV 3 FHD
-http://elitex.me:80/live/cristianne/cristianne/6554.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6554
 #EXTINF:-1,SPORTV 3 FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17032.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17032
 #EXTINF:-1,SPORTV 3 HD
-http://elitex.me:80/live/cristianne/cristianne/167.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/167
 #EXTINF:-1,SPORTV 3 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17104.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17104
 #EXTINF:-1,SPORTV 3 SD
-http://elitex.me:80/live/cristianne/cristianne/166.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/166
 #EXTINF:-1,FOX SPORTS FHD
-http://elitex.me:80/live/cristianne/cristianne/5775.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5775
 #EXTINF:-1,FOX SPORTS FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17036.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17036
 #EXTINF:-1,FOX SPORTS FHD [A]
-http://elitex.me:80/live/cristianne/cristianne/6288.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6288
+#EXTINF:-1,FOX SPORTS FHD [3]
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/18726
 #EXTINF:-1,FOX SPORTS HD
-http://elitex.me:80/live/cristianne/cristianne/164.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/164
 #EXTINF:-1,FOX SPORTS HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/8992.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/8992
 #EXTINF:-1,FOX SPORTS HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2835.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2835
+#EXTINF:-1,FOX SPORTS HD [3]
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/18729
 #EXTINF:-1,FOX SPORTS SD
-http://elitex.me:80/live/cristianne/cristianne/163.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/163
 #EXTINF:-1,FOX SPORTS SD [A]
-http://elitex.me:80/live/cristianne/cristianne/5604.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5604
 #EXTINF:-1,FOX SPORTS 2 FHD
-http://elitex.me:80/live/cristianne/cristianne/2976.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2976
 #EXTINF:-1,FOX SPORTS 2 HD
-http://elitex.me:80/live/cristianne/cristianne/161.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/161
 #EXTINF:-1,FOX SPORTS 2 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17143.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17143
 #EXTINF:-1,FOX SPORTS 2 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2834.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2834
 #EXTINF:-1,FOX SPORTS 2 SD
-http://elitex.me:80/live/cristianne/cristianne/160.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/160
 #EXTINF:-1,ESPN BRASIL FHD
-http://elitex.me:80/live/cristianne/cristianne/6287.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6287
 #EXTINF:-1,ESPN BRASIL HD
-http://elitex.me:80/live/cristianne/cristianne/151.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/151
 #EXTINF:-1,ESPN BRASIL HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17132.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17132
 #EXTINF:-1,ESPN BRASIL HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2843.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2843
 #EXTINF:-1,ESPN BRASIL SD [A]
-http://elitex.me:80/live/cristianne/cristianne/4964.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4964
 #EXTINF:-1,ESPN BRASIL SD
-http://elitex.me:80/live/cristianne/cristianne/150.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/150
 #EXTINF:-1,ESPN FHD
-http://elitex.me:80/live/cristianne/cristianne/6286.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6286
 #EXTINF:-1,ESPN FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17039.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17039
 #EXTINF:-1,ESPN HD
-http://elitex.me:80/live/cristianne/cristianne/154.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/154
 #EXTINF:-1,ESPN HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17131.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17131
 #EXTINF:-1,ESPN HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4963.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4963
 #EXTINF:-1,ESPN SD
-http://elitex.me:80/live/cristianne/cristianne/5371.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5371
 #EXTINF:-1,ESPN 2 FHD
-http://elitex.me:80/live/cristianne/cristianne/9610.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9610
 #EXTINF:-1,ESPN 2 HD
-http://elitex.me:80/live/cristianne/cristianne/148.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/148
 #EXTINF:-1,ESPN 2 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17093.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17093
 #EXTINF:-1,ESPN 2 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4962.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4962
 #EXTINF:-1,ESPN 2 SD
-http://elitex.me:80/live/cristianne/cristianne/153.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/153
 #EXTINF:-1,ESPN EXTRA FHD
-http://elitex.me:80/live/cristianne/cristianne/9611.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9611
 #EXTINF:-1,ESPN EXTRA HD
-http://elitex.me:80/live/cristianne/cristianne/5396.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5396
 #EXTINF:-1,ESPN EXTRA HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17092.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17092
 #EXTINF:-1,ESPN EXTRA SD
-http://elitex.me:80/live/cristianne/cristianne/5397.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5397
 #EXTINF:-1,BAND SPORTS FHD
-http://elitex.me:80/live/cristianne/cristianne/9604.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9604
 #EXTINF:-1,BAND SPORTS HD
-http://elitex.me:80/live/cristianne/cristianne/155.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/155
 #EXTINF:-1,BAND SPORTS HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17138.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17138
 #EXTINF:-1,BAND SPORTS SD
-http://elitex.me:80/live/cristianne/cristianne/156.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/156
 #EXTINF:-1,OFF FHD
-http://elitex.me:80/live/cristianne/cristianne/9633.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9633
 #EXTINF:-1,OFF HD
-http://elitex.me:80/live/cristianne/cristianne/141.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/141
 #EXTINF:-1,OFF SD
-http://elitex.me:80/live/cristianne/cristianne/140.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/140
 #EXTINF:-1,FISH TV FHD
-http://elitex.me:80/live/cristianne/cristianne/9612.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9612
 #EXTINF:-1,FISH TV HD
-http://elitex.me:80/live/cristianne/cristianne/5947.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5947
 #EXTINF:-1,FISH TV HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17150.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17150
 #EXTINF:-1,FISH TV SD
-http://elitex.me:80/live/cristianne/cristianne/138.ts
-#EXTINF:-1,PREMIERE CLUBES 4K
-http://elitex.me:80/live/cristianne/cristianne/16735.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/138
 #EXTINF:-1,PREMIERE CLUBES FHD
-http://elitex.me:80/live/cristianne/cristianne/5761.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5761
 #EXTINF:-1,PREMIERE CLUBES FHD [A]
-http://elitex.me:80/live/cristianne/cristianne/16704.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16704
 #EXTINF:-1,PREMIERE CLUBES FHD [A2]
-http://elitex.me:80/live/cristianne/cristianne/17435.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17435
 #EXTINF:-1,PREMIERE CLUBES HD
-http://elitex.me:80/live/cristianne/cristianne/200.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/200
 #EXTINF:-1,PREMIERE CLUBES HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17107.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17107
 #EXTINF:-1,PREMIERE CLUBES HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4905.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4905
 #EXTINF:-1,PREMIERE CLUBES HD [B]
-http://elitex.me:80/live/cristianne/cristianne/7222.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7222
 #EXTINF:-1,PREMIERE CLUBES SD
-http://elitex.me:80/live/cristianne/cristianne/179.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/179
 #EXTINF:-1,PREMIERE CLUBES SD [A]
-http://elitex.me:80/live/cristianne/cristianne/2792.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2792
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16735
 #EXTINF:-1,PREMIERE 2 FHD
-http://elitex.me:80/live/cristianne/cristianne/2961.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2961
 #EXTINF:-1,PREMIERE 2 HD
-http://elitex.me:80/live/cristianne/cristianne/197.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/197
 #EXTINF:-1,PREMIERE 2 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17111.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17111
 #EXTINF:-1,PREMIERE 2 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4902.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4902
 #EXTINF:-1,PREMIERE 2 HD [B]
-http://elitex.me:80/live/cristianne/cristianne/2788.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2788
 #EXTINF:-1,PREMIERE 2 SD
-http://elitex.me:80/live/cristianne/cristianne/198.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/198
 #EXTINF:-1,PREMIERE 2 SD [A]
-http://elitex.me:80/live/cristianne/cristianne/4091.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4091
 #EXTINF:-1,PREMIERE 3 FHD
-http://elitex.me:80/live/cristianne/cristianne/6279.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6279
 #EXTINF:-1,PREMIERE 3 HD
-http://elitex.me:80/live/cristianne/cristianne/196.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/196
 #EXTINF:-1,PREMIERE 3 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17110.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17110
 #EXTINF:-1,PREMIERE 3 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4903.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4903
 #EXTINF:-1,PREMIERE 3 SD
-http://elitex.me:80/live/cristianne/cristianne/195.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/195
 #EXTINF:-1,PREMIERE 4 FHD
-http://elitex.me:80/live/cristianne/cristianne/6280.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6280
 #EXTINF:-1,PREMIERE 4 HD
-http://elitex.me:80/live/cristianne/cristianne/193.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/193
 #EXTINF:-1,PREMIERE 4 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17109.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17109
 #EXTINF:-1,PREMIERE 4 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4904.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4904
 #EXTINF:-1,PREMIERE 4 SD
-http://elitex.me:80/live/cristianne/cristianne/2786.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2786
 #EXTINF:-1,PREMIERE 5 FHD
-http://elitex.me:80/live/cristianne/cristianne/5718.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5718
 #EXTINF:-1,PREMIERE 5 HD
-http://elitex.me:80/live/cristianne/cristianne/190.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/190
 #EXTINF:-1,PREMIERE 5 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17108.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17108
 #EXTINF:-1,PREMIERE 5 SD
-http://elitex.me:80/live/cristianne/cristianne/189.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/189
 #EXTINF:-1,PREMIERE 5 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5717.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5717
 #EXTINF:-1,PREMIERE 6 FHD
-http://elitex.me:80/live/cristianne/cristianne/6281.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6281
 #EXTINF:-1,PREMIERE 6 HD
-http://elitex.me:80/live/cristianne/cristianne/4991.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4991
 #EXTINF:-1,PREMIERE 6 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17155.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17155
 #EXTINF:-1,PREMIERE 6 SD
-http://elitex.me:80/live/cristianne/cristianne/187.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/187
 #EXTINF:-1,PREMIERE 6 SD [A]
-http://elitex.me:80/live/cristianne/cristianne/5716.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5716
 #EXTINF:-1,PREMIERE 7 FHD
-http://elitex.me:80/live/cristianne/cristianne/6282.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6282
 #EXTINF:-1,PREMIERE 7 HD
-http://elitex.me:80/live/cristianne/cristianne/4990.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4990
 #EXTINF:-1,PREMIERE 7 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17154.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17154
 #EXTINF:-1,PREMIERE 7 SD
-http://elitex.me:80/live/cristianne/cristianne/185.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/185
 #EXTINF:-1,PREMIERE 7 SD [A]
-http://elitex.me:80/live/cristianne/cristianne/5715.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5715
 #EXTINF:-1,PREMIERE 8 SD
-http://elitex.me:80/live/cristianne/cristianne/183.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/183
 #EXTINF:-1,COPA SUL-AMERICANA HD
-http://elitex.me:80/live/cristianne/cristianne/16567.ts
-#EXTINF:-1,COPA LIBERTADORES HD
-http://elitex.me:80/live/cristianne/cristianne/16566.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16567
 #EXTINF:-1,BRASILEIRAO SERIE C
-http://elitex.me:80/live/cristianne/cristianne/16563.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16563
+#EXTINF:-1,GLOBOESPORTE.COM
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/18703
 #EXTINF:-1,DAZN 1
-http://elitex.me:80/live/cristianne/cristianne/11625.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11625
 #EXTINF:-1,DAZN 1 FHD
-http://elitex.me:80/live/cristianne/cristianne/11623.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11623
 #EXTINF:-1,DAZN 1 HD
-http://elitex.me:80/live/cristianne/cristianne/11624.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/11624
 #EXTINF:-1,DAZN 2
-http://elitex.me:80/live/cristianne/cristianne/16564.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16564
 #EXTINF:-1,DAZN 2 HD
-http://elitex.me:80/live/cristianne/cristianne/16565.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16565
+#EXTINF:-1,DAZN COPA SULAMERICANA
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/18237
 #EXTINF:-1,TELECINE PREMIUM FHD
-http://elitex.me:80/live/cristianne/cristianne/2752.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2752
 #EXTINF:-1,TELECINE PREMIUM HD
-http://elitex.me:80/live/cristianne/cristianne/287.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/287
 #EXTINF:-1,TELECINE PREMIUM HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17101.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17101
 #EXTINF:-1,TELECINE PREMIUM HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9549.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9549
 #EXTINF:-1,TELECINE PREMIUM HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4918.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4918
 #EXTINF:-1,TELECINE PREMIUM SD
-http://elitex.me:80/live/cristianne/cristianne/286.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/286
 #EXTINF:-1,TELECINE PREMIUM SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9548.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9548
 #EXTINF:-1,TELECINE ACTION FHD
-http://elitex.me:80/live/cristianne/cristianne/2759.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2759
 #EXTINF:-1,TELECINE ACTION HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17103.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17103
 #EXTINF:-1,TELECINE ACTION HD
-http://elitex.me:80/live/cristianne/cristianne/296.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/296
 #EXTINF:-1,TELECINE ACTION HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4919.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4919
 #EXTINF:-1,TELECINE ACTION HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9555.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9555
 #EXTINF:-1,TELECINE ACTION SD
-http://elitex.me:80/live/cristianne/cristianne/295.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/295
 #EXTINF:-1,TELECINE ACTION SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9554.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9554
 #EXTINF:-1,TELECINE PIPOCA FHD
-http://elitex.me:80/live/cristianne/cristianne/2953.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2953
 #EXTINF:-1,TELECINE PIPOCA HD
-http://elitex.me:80/live/cristianne/cristianne/290.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/290
 #EXTINF:-1,TELECINE PIPOCA HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9551.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9551
 #EXTINF:-1,TELECINE PIPOCA HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/5441.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5441
 #EXTINF:-1,TELECINE PIPOCA SD
-http://elitex.me:80/live/cristianne/cristianne/2754.ts
-#EXTINF:-1,TELECINE PIPOCA SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9550.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2754
 #EXTINF:-1,TELECINE FUN FHD
-http://elitex.me:80/live/cristianne/cristianne/5944.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5944
 #EXTINF:-1,TELECINE FUN FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17019.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17019
 #EXTINF:-1,TELECINE FUN HD
-http://elitex.me:80/live/cristianne/cristianne/293.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/293
 #EXTINF:-1,TELECINE FUN HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17102.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17102
 #EXTINF:-1,TELECINE FUN HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9553.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9553
 #EXTINF:-1,TELECINE FUN HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4920.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4920
 #EXTINF:-1,TELECINE FUN SD
-http://elitex.me:80/live/cristianne/cristianne/292.ts
-#EXTINF:-1,TELECINE FUN SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9552.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/292
 #EXTINF:-1,TELECINE TOUCH FHD
-http://elitex.me:80/live/cristianne/cristianne/5945.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5945
 #EXTINF:-1,TELECINE TOUCH HD
-http://elitex.me:80/live/cristianne/cristianne/284.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/284
 #EXTINF:-1,TELECINE TOUCH HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17100.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17100
 #EXTINF:-1,TELECINE TOUCH HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9547.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9547
 #EXTINF:-1,TELECINE TOUCH HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5442.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5442
 #EXTINF:-1,TELECINE TOUCH SD
-http://elitex.me:80/live/cristianne/cristianne/283.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/283
 #EXTINF:-1,TELECINE TOUCH SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9546.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9546
 #EXTINF:-1,TELECINE TOUCH SD [A]
-http://elitex.me:80/live/cristianne/cristianne/2750.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2750
 #EXTINF:-1,TELECINE CULT FHD
-http://elitex.me:80/live/cristianne/cristianne/5943.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5943
 #EXTINF:-1,TELECINE CULT FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17044.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17044
 #EXTINF:-1,TELECINE CULT HD
-http://elitex.me:80/live/cristianne/cristianne/4791.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4791
 #EXTINF:-1,TELECINE CULT HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17153.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17153
 #EXTINF:-1,TELECINE CULT HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4923.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4923
 #EXTINF:-1,TELECINE CULT SD
-http://elitex.me:80/live/cristianne/cristianne/281.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/281
 #EXTINF:-1,MEGAPIX FHD
-http://elitex.me:80/live/cristianne/cristianne/9624.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9624
 #EXTINF:-1,MEGAPIX HD
-http://elitex.me:80/live/cristianne/cristianne/244.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/244
 #EXTINF:-1,MEGAPIX HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17117.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17117
 #EXTINF:-1,MEGAPIX HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4924.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4924
 #EXTINF:-1,MEGAPIX HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9539.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9539
 #EXTINF:-1,MEGAPIX SD
-http://elitex.me:80/live/cristianne/cristianne/245.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/245
 #EXTINF:-1,MEGAPIX SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9538.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9538
 #EXTINF:-1,UNIVERSAL FHD
-http://elitex.me:80/live/cristianne/cristianne/9642.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9642
 #EXTINF:-1,UNIVERSAL HD
-http://elitex.me:80/live/cristianne/cristianne/208.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/208
 #EXTINF:-1,UNIVERSAL HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17097.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17097
 #EXTINF:-1,UNIVERSAL HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4925.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4925
 #EXTINF:-1,UNIVERSAL SD
-http://elitex.me:80/live/cristianne/cristianne/209.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/209
 #EXTINF:-1,STUDIO UNIVERSAL FHD
-http://elitex.me:80/live/cristianne/cristianne/5909.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5909
 #EXTINF:-1,STUDIO UNIVERSAL HD
-http://elitex.me:80/live/cristianne/cristianne/2763.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2763
 #EXTINF:-1,STUDIO UNIVERSAL HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17047.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17047
 #EXTINF:-1,STUDIO UNIVERSAL HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5710.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5710
 #EXTINF:-1,STUDIO UNIVERSAL SD [A]
-http://elitex.me:80/live/cristianne/cristianne/5711.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5711
 #EXTINF:-1,STUDIO UNIVERSAL SD
-http://elitex.me:80/live/cristianne/cristianne/218.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/218
 #EXTINF:-1,SYFY FHD
-http://elitex.me:80/live/cristianne/cristianne/5908.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5908
 #EXTINF:-1,SYFY HD
-http://elitex.me:80/live/cristianne/cristianne/2762.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2762
 #EXTINF:-1,SYFY HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17046.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17046
 #EXTINF:-1,SYFY SD
-http://elitex.me:80/live/cristianne/cristianne/216.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/216
 #EXTINF:-1,CANAL BRASIL HD
-http://elitex.me:80/live/cristianne/cristianne/2871.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2871
 #EXTINF:-1,CANAL BRASIL SD
-http://elitex.me:80/live/cristianne/cristianne/298.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/298
 #EXTINF:-1,HBO FHD
-http://elitex.me:80/live/cristianne/cristianne/5541.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5541
 #EXTINF:-1,HBO HD
-http://elitex.me:80/live/cristianne/cristianne/273.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/273
 #EXTINF:-1,HBO HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/16741.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16741
 #EXTINF:-1,HBO HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4104.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4104
 #EXTINF:-1,HBO HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9561.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9561
 #EXTINF:-1,HBO HD DUAL LEG
-http://elitex.me:80/live/cristianne/cristianne/16742.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16742
 #EXTINF:-1,HBO SD
-http://elitex.me:80/live/cristianne/cristianne/4768.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4768
 #EXTINF:-1,HBO SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9558.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9558
 #EXTINF:-1,HBO SD [A]
-http://elitex.me:80/live/cristianne/cristianne/272.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/272
 #EXTINF:-1,HBO 2 FHD
-http://elitex.me:80/live/cristianne/cristianne/4769.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4769
 #EXTINF:-1,HBO 2 HD
-http://elitex.me:80/live/cristianne/cristianne/279.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/279
 #EXTINF:-1,HBO 2 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17123.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17123
 #EXTINF:-1,HBO 2 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2816.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2816
 #EXTINF:-1,HBO 2 SD
-http://elitex.me:80/live/cristianne/cristianne/4099.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4099
 #EXTINF:-1,HBO + FHD
-http://elitex.me:80/live/cristianne/cristianne/9621.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9621
 #EXTINF:-1,HBO + HD
-http://elitex.me:80/live/cristianne/cristianne/270.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/270
 #EXTINF:-1,HBO + HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17121.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17121
 #EXTINF:-1,HBO + HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4102.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4102
 #EXTINF:-1,HBO + HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9560.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9560
 #EXTINF:-1,HBO + SD
-http://elitex.me:80/live/cristianne/cristianne/269.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/269
 #EXTINF:-1,HBO + SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9559.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9559
 #EXTINF:-1,HBO FAMILY FHD
-http://elitex.me:80/live/cristianne/cristianne/9620.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9620
 #EXTINF:-1,HBO FAMILY HD
-http://elitex.me:80/live/cristianne/cristianne/276.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/276
 #EXTINF:-1,HBO FAMILY HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17122.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17122
 #EXTINF:-1,HBO FAMILY HD [A]
-http://elitex.me:80/live/cristianne/cristianne/9648.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9648
 #EXTINF:-1,HBO FAMILY SD
-http://elitex.me:80/live/cristianne/cristianne/275.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/275
 #EXTINF:-1,HBO SIGNATURE FHD
-http://elitex.me:80/live/cristianne/cristianne/9622.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9622
 #EXTINF:-1,HBO SIGNATURE HD
-http://elitex.me:80/live/cristianne/cristianne/267.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/267
 #EXTINF:-1,HBO SIGNATURE HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17142.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17142
 #EXTINF:-1,HBO SIGNATURE HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4100.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4100
 #EXTINF:-1,HBO SIGNATURE SD
-http://elitex.me:80/live/cristianne/cristianne/5601.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5601
 #EXTINF:-1,MAX FHD
-http://elitex.me:80/live/cristianne/cristianne/5916.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5916
 #EXTINF:-1,MAX HD
-http://elitex.me:80/live/cristianne/cristianne/4827.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4827
 #EXTINF:-1,MAX HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4766.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4766
 #EXTINF:-1,MAX SD
-http://elitex.me:80/live/cristianne/cristianne/240.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/240
 #EXTINF:-1,MAX SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9556.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9556
 #EXTINF:-1,MAX UP FHD
-http://elitex.me:80/live/cristianne/cristianne/5914.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5914
 #EXTINF:-1,MAX UP HD
-http://elitex.me:80/live/cristianne/cristianne/5043.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5043
 #EXTINF:-1,MAX UP HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9541.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9541
 #EXTINF:-1,MAX UP SD
-http://elitex.me:80/live/cristianne/cristianne/235.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/235
 #EXTINF:-1,MAX UP SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9540.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9540
 #EXTINF:-1,MAX PRIME FHD
-http://elitex.me:80/live/cristianne/cristianne/5915.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5915
 #EXTINF:-1,MAX PRIME HD
-http://elitex.me:80/live/cristianne/cristianne/4828.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4828
 #EXTINF:-1,MAX PRIME HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4767.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4767
 #EXTINF:-1,MAX PRIME SD
-http://elitex.me:80/live/cristianne/cristianne/239.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/239
 #EXTINF:-1,MAX PRIME SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9557.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9557
 #EXTINF:-1,WARNER FHD
-http://elitex.me:80/live/cristianne/cristianne/5848.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5848
 #EXTINF:-1,WARNER HD
-http://elitex.me:80/live/cristianne/cristianne/241.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/241
 #EXTINF:-1,WARNER HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17095.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17095
 #EXTINF:-1,WARNER HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4931.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4931
 #EXTINF:-1,WARNER HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9533.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9533
 #EXTINF:-1,WARNER SD
-http://elitex.me:80/live/cristianne/cristianne/242.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/242
 #EXTINF:-1,WARNER SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9532.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9532
 #EXTINF:-1,FOX FHD
-http://elitex.me:80/live/cristianne/cristianne/4932.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4932
 #EXTINF:-1,FOX FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17037.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17037
 #EXTINF:-1,FOX FHD [A]
-http://elitex.me:80/live/cristianne/cristianne/6284.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6284
 #EXTINF:-1,FOX HD
-http://elitex.me:80/live/cristianne/cristianne/256.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/256
 #EXTINF:-1,FOX HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17128.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17128
 #EXTINF:-1,FOX HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9563.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9563
 #EXTINF:-1,FOX HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4111.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4111
 #EXTINF:-1,FOX SD
-http://elitex.me:80/live/cristianne/cristianne/255.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/255
 #EXTINF:-1,FOX SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9562.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9562
 #EXTINF:-1,FOX PREMIUM 1 FHD
-http://elitex.me:80/live/cristianne/cristianne/9614.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9614
 #EXTINF:-1,FOX PREMIUM 1 HD
-http://elitex.me:80/live/cristianne/cristianne/257.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/257
 #EXTINF:-1,FOX PREMIUM 1 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17130.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17130
 #EXTINF:-1,FOX PREMIUM 1 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4934.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4934
 #EXTINF:-1,FOX PREMIUM 2 FHD
-http://elitex.me:80/live/cristianne/cristianne/5890.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5890
 #EXTINF:-1,FOX PREMIUM 2 HD
-http://elitex.me:80/live/cristianne/cristianne/3293.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/3293
 #EXTINF:-1,FOX PREMIUM 2 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17129.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17129
 #EXTINF:-1,FOX PREMIUM 2 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4935.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4935
 #EXTINF:-1,FOX LIFE FHD
-http://elitex.me:80/live/cristianne/cristianne/9613.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9613
 #EXTINF:-1,FOX LIFE HD
-http://elitex.me:80/live/cristianne/cristianne/250.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/250
 #EXTINF:-1,FOX LIFE HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17127.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17127
 #EXTINF:-1,FOX LIFE SD
-http://elitex.me:80/live/cristianne/cristianne/251.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/251
 #EXTINF:-1,FX FHD
-http://elitex.me:80/live/cristianne/cristianne/9617.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9617
 #EXTINF:-1,FX HD
-http://elitex.me:80/live/cristianne/cristianne/247.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/247
 #EXTINF:-1,FX HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17125.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17125
 #EXTINF:-1,FX HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9543.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9543
 #EXTINF:-1,FX SD
-http://elitex.me:80/live/cristianne/cristianne/4551.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4551
 #EXTINF:-1,FX SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9542.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9542
 #EXTINF:-1,CANAL SONY FHD
-http://elitex.me:80/live/cristianne/cristianne/6890.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6890
 #EXTINF:-1,CANAL SONY FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17022.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17022
 #EXTINF:-1,CANAL SONY HD
-http://elitex.me:80/live/cristianne/cristianne/210.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/210
 #EXTINF:-1,CANAL SONY HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17145.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17145
 #EXTINF:-1,CANAL SONY HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2869.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2869
 #EXTINF:-1,CANAL SONY HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9568.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9568
 #EXTINF:-1,CANAL SONY SD
-http://elitex.me:80/live/cristianne/cristianne/212.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/212
 #EXTINF:-1,CANAL SONY SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9569.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9569
 #EXTINF:-1,CANAL SONY SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7517.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7517
 #EXTINF:-1,TNT FHD
-http://elitex.me:80/live/cristianne/cristianne/9638.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9638
 #EXTINF:-1,TNT FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/16951.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16951
 #EXTINF:-1,TNT HD
-http://elitex.me:80/live/cristianne/cristianne/263.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/263
 #EXTINF:-1,TNT HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17099.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17099
 #EXTINF:-1,TNT HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9545.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9545
 #EXTINF:-1,TNT SD
-http://elitex.me:80/live/cristianne/cristianne/262.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/262
 #EXTINF:-1,TNT SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9544.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9544
 #EXTINF:-1,TNT SERIES FHD
-http://elitex.me:80/live/cristianne/cristianne/9639.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9639
 #EXTINF:-1,TNT SERIES HD
-http://elitex.me:80/live/cristianne/cristianne/260.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/260
 #EXTINF:-1,TNT SERIES HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17098.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17098
 #EXTINF:-1,TNT SERIES HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9535.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9535
 #EXTINF:-1,TNT SERIES SD
-http://elitex.me:80/live/cristianne/cristianne/259.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/259
 #EXTINF:-1,TNT SERIES SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9534.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9534
 #EXTINF:-1,SPACE FHD
-http://elitex.me:80/live/cristianne/cristianne/9636.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9636
 #EXTINF:-1,SPACE FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17033.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17033
 #EXTINF:-1,SPACE HD
-http://elitex.me:80/live/cristianne/cristianne/223.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/223
 #EXTINF:-1,SPACE HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17106.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17106
 #EXTINF:-1,SPACE HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4947.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4947
 #EXTINF:-1,SPACE HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9537.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9537
 #EXTINF:-1,SPACE SD
-http://elitex.me:80/live/cristianne/cristianne/224.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/224
 #EXTINF:-1,SPACE SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9536.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9536
 #EXTINF:-1,CINEMAX FHD
-http://elitex.me:80/live/cristianne/cristianne/5929.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5929
 #EXTINF:-1,CINEMAX HD
-http://elitex.me:80/live/cristianne/cristianne/4825.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4825
 #EXTINF:-1,CINEMAX HD [A]
-http://elitex.me:80/live/cristianne/cristianne/3751.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/3751
 #EXTINF:-1,CINEMAX SD
-http://elitex.me:80/live/cristianne/cristianne/230.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/230
 #EXTINF:-1,CINEMAX SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7518.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7518
 #EXTINF:-1,PARAMOUNT FHD
-http://elitex.me:80/live/cristianne/cristianne/9634.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9634
 #EXTINF:-1,PARAMOUNT HD
-http://elitex.me:80/live/cristianne/cristianne/228.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/228
 #EXTINF:-1,PARAMOUNT HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17112.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17112
 #EXTINF:-1,PARAMOUNT SD
-http://elitex.me:80/live/cristianne/cristianne/227.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/227
 #EXTINF:-1,A&E FHD
-http://elitex.me:80/live/cristianne/cristianne/5846.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5846
 #EXTINF:-1,A&E HD
-http://elitex.me:80/live/cristianne/cristianne/2881.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2881
 #EXTINF:-1,A&E HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17070.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17070
 #EXTINF:-1,A&E HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5089.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5089
 #EXTINF:-1,A&E SD
-http://elitex.me:80/live/cristianne/cristianne/299.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/299
 #EXTINF:-1,TBS FHD
-http://elitex.me:80/live/cristianne/cristianne/9637.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9637
 #EXTINF:-1,TBS HD
-http://elitex.me:80/live/cristianne/cristianne/220.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/220
 #EXTINF:-1,TBS HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17139.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17139
 #EXTINF:-1,TBS SD
-http://elitex.me:80/live/cristianne/cristianne/221.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/221
 #EXTINF:-1,COMEDY CENTRAL FHD
-http://elitex.me:80/live/cristianne/cristianne/9605.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9605
 #EXTINF:-1,COMEDY CENTRAL HD
-http://elitex.me:80/live/cristianne/cristianne/2861.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2861
 #EXTINF:-1,COMEDY CENTRAL HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17065.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17065
 #EXTINF:-1,COMEDY CENTRAL HD [A]
-http://elitex.me:80/live/cristianne/cristianne/7519.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7519
 #EXTINF:-1,COMEDY CENTRAL SD
-http://elitex.me:80/live/cristianne/cristianne/97.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/97
 #EXTINF:-1,AMC FHD
-http://elitex.me:80/live/cristianne/cristianne/5847.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5847
 #EXTINF:-1,AMC HD
-http://elitex.me:80/live/cristianne/cristianne/5477.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5477
 #EXTINF:-1,AMC HD [A]
-http://elitex.me:80/live/cristianne/cristianne/7511.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7511
 #EXTINF:-1,AMC SD
-http://elitex.me:80/live/cristianne/cristianne/5298.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5298
 #EXTINF:-1,AXN FHD
-http://elitex.me:80/live/cristianne/cristianne/5901.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5901
 #EXTINF:-1,AXN HD
-http://elitex.me:80/live/cristianne/cristianne/231.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/231
 #EXTINF:-1,AXN HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17148.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17148
 #EXTINF:-1,AXN HD [A]
-http://elitex.me:80/live/cristianne/cristianne/6149.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6149
 #EXTINF:-1,AXN HD LEG
-http://elitex.me:80/live/cristianne/cristianne/9565.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9565
 #EXTINF:-1,AXN SD
-http://elitex.me:80/live/cristianne/cristianne/232.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/232
 #EXTINF:-1,AXN SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7514.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7514
 #EXTINF:-1,AXN SD LEG
-http://elitex.me:80/live/cristianne/cristianne/9564.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9564
 #EXTINF:-1,TCM SD
-http://elitex.me:80/live/cristianne/cristianne/214.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/214
 #EXTINF:-1,HOME & HEALTH FHD
-http://elitex.me:80/live/cristianne/cristianne/6544.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6544
 #EXTINF:-1,HOME & HEALTH HD
-http://elitex.me:80/live/cristianne/cristianne/130.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/130
 #EXTINF:-1,HOME & HEALTH HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17136.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17136
 #EXTINF:-1,HOME & HEALTH HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5831.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5831
 #EXTINF:-1,HOME & HEALTH SD
-http://elitex.me:80/live/cristianne/cristianne/129.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/129
 #EXTINF:-1,HOME & HEALTH SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7523.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7523
 #EXTINF:-1,DISCOVERY TURBO FHD
-http://elitex.me:80/live/cristianne/cristianne/2756.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2756
 #EXTINF:-1,DISCOVERY TURBO FHD [A]
-http://elitex.me:80/live/cristianne/cristianne/7528.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7528
 #EXTINF:-1,DISCOVERY TURBO HD
-http://elitex.me:80/live/cristianne/cristianne/126.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/126
 #EXTINF:-1,DISCOVERY TURBO HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17134.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17134
 #EXTINF:-1,DISCOVERY TURBO HD [A]
-http://elitex.me:80/live/cristianne/cristianne/7527.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7527
 #EXTINF:-1,DISCOVERY TURBO SD
-http://elitex.me:80/live/cristianne/cristianne/125.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/125
 #EXTINF:-1,TLC FHD
-http://elitex.me:80/live/cristianne/cristianne/5907.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5907
 #EXTINF:-1,TLC HD
-http://elitex.me:80/live/cristianne/cristianne/2747.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2747
 #EXTINF:-1,TLC HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17045.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17045
 #EXTINF:-1,TLC HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5060.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5060
 #EXTINF:-1,TLC SD
-http://elitex.me:80/live/cristianne/cristianne/76.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/76
 #EXTINF:-1,TLC SD [A]
-http://elitex.me:80/live/cristianne/cristianne/5345.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5345
 #EXTINF:-1,VIVA FHD
-http://elitex.me:80/live/cristianne/cristianne/16739.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16739
 #EXTINF:-1,VIVA HD
-http://elitex.me:80/live/cristianne/cristianne/79.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/79
 #EXTINF:-1,VIVA HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17096.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17096
 #EXTINF:-1,VIVA HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5373.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5373
 #EXTINF:-1,VIVA SD
-http://elitex.me:80/live/cristianne/cristianne/78.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/78
 #EXTINF:-1,GNT FHD
-http://elitex.me:80/live/cristianne/cristianne/9618.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9618
 #EXTINF:-1,GNT HD
-http://elitex.me:80/live/cristianne/cristianne/82.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/82
 #EXTINF:-1,GNT HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17124.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17124
 #EXTINF:-1,GNT HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4953.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4953
 #EXTINF:-1,GNT HD [B]
-http://elitex.me:80/live/cristianne/cristianne/2818.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2818
 #EXTINF:-1,GNT SD
-http://elitex.me:80/live/cristianne/cristianne/81.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/81
 #EXTINF:-1,GNT SD [A]
-http://elitex.me:80/live/cristianne/cristianne/4853.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4853
 #EXTINF:-1,MAIS GLOBOSAT FHD
-http://elitex.me:80/live/cristianne/cristianne/16671.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16671
 #EXTINF:-1,MAIS GLOBOSAT HD
-http://elitex.me:80/live/cristianne/cristianne/2820.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2820
 #EXTINF:-1,MAIS GLOBOSAT HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17163.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17163
 #EXTINF:-1,MAIS GLOBOSAT HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4952.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4952
 #EXTINF:-1,MAIS GLOBOSAT SD
-http://elitex.me:80/live/cristianne/cristianne/204.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/204
 #EXTINF:-1,MAIS GLOBOSAT SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7508.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7508
 #EXTINF:-1,DOG TV HD
-http://elitex.me:80/live/cristianne/cristianne/10627.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/10627
 #EXTINF:-1,WOOHOO FHD
-http://elitex.me:80/live/cristianne/cristianne/9646.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9646
 #EXTINF:-1,WOOHOO HD
-http://elitex.me:80/live/cristianne/cristianne/4775.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4775
 #EXTINF:-1,WOOHOO HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17151.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17151
 #EXTINF:-1,WOOHOO SD
-http://elitex.me:80/live/cristianne/cristianne/136.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/136
 #EXTINF:-1,LIFETIME FHD
-http://elitex.me:80/live/cristianne/cristianne/5917.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5917
 #EXTINF:-1,LIFETIME HD
-http://elitex.me:80/live/cristianne/cristianne/5059.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5059
 #EXTINF:-1,LIFETIME HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17162.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17162
 #EXTINF:-1,LIFETIME HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2808.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2808
 #EXTINF:-1,LIFETIME SD
-http://elitex.me:80/live/cristianne/cristianne/72.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/72
 #EXTINF:-1,E! FHD
-http://elitex.me:80/live/cristianne/cristianne/5923.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5923
 #EXTINF:-1,E! HD
-http://elitex.me:80/live/cristianne/cristianne/2848.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2848
 #EXTINF:-1,E! HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5829.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5829
 #EXTINF:-1,E! SD
-http://elitex.me:80/live/cristianne/cristianne/69.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/69
 #EXTINF:-1,FOOD NETWORK FHD
-http://elitex.me:80/live/cristianne/cristianne/5922.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5922
 #EXTINF:-1,FOOD NETWORK HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17091.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17091
 #EXTINF:-1,FOOD NETWORK HD
-http://elitex.me:80/live/cristianne/cristianne/2841.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2841
 #EXTINF:-1,FOOD NETWORK SD
-http://elitex.me:80/live/cristianne/cristianne/71.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/71
 #EXTINF:-1,TRUTV FHD
-http://elitex.me:80/live/cristianne/cristianne/9641.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9641
 #EXTINF:-1,TRUTV HD
-http://elitex.me:80/live/cristianne/cristianne/9640.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9640
 #EXTINF:-1,TRUTV SD
-http://elitex.me:80/live/cristianne/cristianne/74.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/74
 #EXTINF:-1,POLISHOP TV
-http://elitex.me:80/live/cristianne/cristianne/17471.ts
-#EXTINF:-1,PLAYTV
-http://elitex.me:80/live/cristianne/cristianne/5052.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17471
+#EXTINF:-1,PLAYTV SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5052
 #EXTINF:-1,PLAYTV SD [A]
-http://elitex.me:80/live/cristianne/cristianne/5053.ts
-#EXTINF:-1,NHK
-http://elitex.me:80/live/cristianne/cristianne/5057.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5053
+#EXTINF:-1,NHK SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5057
 #EXTINF:-1,MULTISHOW FHD
-http://elitex.me:80/live/cristianne/cristianne/9628.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9628
 #EXTINF:-1,MULTISHOW HD
-http://elitex.me:80/live/cristianne/cristianne/93.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/93
 #EXTINF:-1,MULTISHOW HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17116.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17116
 #EXTINF:-1,MULTISHOW HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4954.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4954
 #EXTINF:-1,MULTISHOW LIGHT
-http://elitex.me:80/live/cristianne/cristianne/5704.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5704
 #EXTINF:-1,MULTISHOW SD
-http://elitex.me:80/live/cristianne/cristianne/92.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/92
 #EXTINF:-1,BIS FHD
-http://elitex.me:80/live/cristianne/cristianne/100.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/100
 #EXTINF:-1,BIS HD
-http://elitex.me:80/live/cristianne/cristianne/4955.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4955
 #EXTINF:-1,BIS HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17146.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17146
 #EXTINF:-1,BIS SD
-http://elitex.me:80/live/cristianne/cristianne/99.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/99
 #EXTINF:-1,MTV FHD
-http://elitex.me:80/live/cristianne/cristianne/5913.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5913
 #EXTINF:-1,MTV HD
-http://elitex.me:80/live/cristianne/cristianne/4957.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4957
 #EXTINF:-1,MTV HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17051.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17051
 #EXTINF:-1,MTV HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4956.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4956
 #EXTINF:-1,MTV SD
-http://elitex.me:80/live/cristianne/cristianne/86.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/86
 #EXTINF:-1,MTV LIVE FHD
-http://elitex.me:80/live/cristianne/cristianne/9627.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9627
 #EXTINF:-1,MTV LIVE HD
-http://elitex.me:80/live/cristianne/cristianne/9626.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9626
 #EXTINF:-1,MTV LIVE SD
-http://elitex.me:80/live/cristianne/cristianne/9625.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9625
 #EXTINF:-1,VH1 FHD
-http://elitex.me:80/live/cristianne/cristianne/9645.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9645
 #EXTINF:-1,VH1 HD
-http://elitex.me:80/live/cristianne/cristianne/2733.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2733
 #EXTINF:-1,VH1 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17152.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17152
 #EXTINF:-1,VH1 HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5328.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5328
 #EXTINF:-1,VH1 SD
-http://elitex.me:80/live/cristianne/cristianne/9644.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9644
 #EXTINF:-1,VH1 MEGAHITS SD
-http://elitex.me:80/live/cristianne/cristianne/88.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/88
 #EXTINF:-1,MUSIC BOX BRAZIL FHD
-http://elitex.me:80/live/cristianne/cristianne/9629.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9629
 #EXTINF:-1,MUSIC BOX BRAZIL HD
-http://elitex.me:80/live/cristianne/cristianne/9630.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9630
 #EXTINF:-1,MUSIC BOX BRAZIL SD
-http://elitex.me:80/live/cristianne/cristianne/9631.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9631
 #EXTINF:-1,PRIME BOX BRAZIL FHD
-http://elitex.me:80/live/cristianne/cristianne/9635.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9635
 #EXTINF:-1,PRIME BOX BRAZIL SD
-http://elitex.me:80/live/cristianne/cristianne/90.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/90
 #EXTINF:-1,PRIME BOX BRAZIL HD
-http://elitex.me:80/live/cristianne/cristianne/2779.ts
-#EXTINF:-1,HIT TV
-http://elitex.me:80/live/cristianne/cristianne/4558.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2779
 #EXTINF:-1,KRONE HIT
-http://elitex.me:80/live/cristianne/cristianne/17519.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17519
 #EXTINF:-1,KRONE HIT [A]
-http://elitex.me:80/live/cristianne/cristianne/17520.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17520
 #EXTINF:-1,NRJ HITS
-http://elitex.me:80/live/cristianne/cristianne/17517.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17517
 #EXTINF:-1,NRJ HITS [A]
-http://elitex.me:80/live/cristianne/cristianne/17518.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17518
 #EXTINF:-1,M2O
-http://elitex.me:80/live/cristianne/cristianne/17515.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17515
 #EXTINF:-1,M2O [A]
-http://elitex.me:80/live/cristianne/cristianne/17516.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17516
 #EXTINF:-1,ANIMAL PLANET FHD
-http://elitex.me:80/live/cristianne/cristianne/5902.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5902
 #EXTINF:-1,ANIMAL PLANET HD
-http://elitex.me:80/live/cristianne/cristianne/116.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/116
 #EXTINF:-1,ANIMAL PLANET HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/5825.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5825
 #EXTINF:-1,ANIMAL PLANET SD
-http://elitex.me:80/live/cristianne/cristianne/117.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/117
 #EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD
-http://elitex.me:80/live/cristianne/cristianne/9623.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9623
 #EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
-http://elitex.me:80/live/cristianne/cristianne/109.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/109
 #EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17118.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17118
 #EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
-http://elitex.me:80/live/cristianne/cristianne/108.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/108
 #EXTINF:-1,DISCOVERY FHD
-http://elitex.me:80/live/cristianne/cristianne/5536.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5536
 #EXTINF:-1,DISCOVERY FHD [A]
-http://elitex.me:80/live/cristianne/cristianne/2988.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2988
 #EXTINF:-1,DISCOVERY HD
-http://elitex.me:80/live/cristianne/cristianne/133.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/133
 #EXTINF:-1,DISCOVERY HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17137.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17137
 #EXTINF:-1,DISCOVERY HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2860.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2860
 #EXTINF:-1,DISCOVERY SD
-http://elitex.me:80/live/cristianne/cristianne/132.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/132
 #EXTINF:-1,DISCOVERY SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7520.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7520
 #EXTINF:-1,DISCOVERY CIVILIZATION FHD
-http://elitex.me:80/live/cristianne/cristianne/5927.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5927
 #EXTINF:-1,DISCOVERY CIVILIZATION HD
-http://elitex.me:80/live/cristianne/cristianne/5475.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5475
 #EXTINF:-1,DISCOVERY CIVILIZATION HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17167.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17167
 #EXTINF:-1,DISCOVERY CIVILIZATION HD [A]
-http://elitex.me:80/live/cristianne/cristianne/7521.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7521
 #EXTINF:-1,DISCOVERY CIVILIZATION SD
-http://elitex.me:80/live/cristianne/cristianne/2859.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2859
 #EXTINF:-1,DISCOVERY CIVILIZATION SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7522.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7522
 #EXTINF:-1,DISCOVERY SCIENCE FHD
-http://elitex.me:80/live/cristianne/cristianne/9608.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9608
 #EXTINF:-1,DISCOVERY SCIENCE HD
-http://elitex.me:80/live/cristianne/cristianne/5476.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5476
 #EXTINF:-1,DISCOVERY SCIENCE HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17166.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17166
 #EXTINF:-1,DISCOVERY SCIENCE HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5925.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5925
 #EXTINF:-1,DISCOVERY SCIENCE SD
-http://elitex.me:80/live/cristianne/cristianne/120.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/120
 #EXTINF:-1,DISCOVERY SCIENCE SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7525.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7525
 #EXTINF:-1,THEATER FHD
-http://elitex.me:80/live/cristianne/cristianne/9609.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9609
 #EXTINF:-1,THEATER HD
-http://elitex.me:80/live/cristianne/cristianne/127.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/127
 #EXTINF:-1,THEATER HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17135.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17135
 #EXTINF:-1,THEATER HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5066.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5066
 #EXTINF:-1,THEATER SD
-http://elitex.me:80/live/cristianne/cristianne/7526.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7526
 #EXTINF:-1,WORLD FHD
-http://elitex.me:80/live/cristianne/cristianne/6545.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6545
 #EXTINF:-1,WORLD HD
-http://elitex.me:80/live/cristianne/cristianne/123.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/123
 #EXTINF:-1,WORLD HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17133.ts
-#EXTINF:-1,WORLD HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5068.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17133
+#EXTINF:-1,WORLDÂ HD [A]
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5068
 #EXTINF:-1,WORLD SD
-http://elitex.me:80/live/cristianne/cristianne/7529.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7529
 #EXTINF:-1,NAT GEO WILD FHD
-http://elitex.me:80/live/cristianne/cristianne/6541.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6541
 #EXTINF:-1,NAT GEO WILD FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17027.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17027
 #EXTINF:-1,NAT GEO WILD HD
-http://elitex.me:80/live/cristianne/cristianne/106.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/106
 #EXTINF:-1,NAT GEO WILD HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17114.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17114
 #EXTINF:-1,NAT GEO WILD SD
-http://elitex.me:80/live/cristianne/cristianne/105.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/105
 #EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://elitex.me:80/live/cristianne/cristianne/9632.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9632
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://elitex.me:80/live/cristianne/cristianne/103.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/103
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17115.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17115
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2799.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2799
 #EXTINF:-1,NATIONAL GEOGRAPHIC LIGHT
-http://elitex.me:80/live/cristianne/cristianne/4094.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4094
 #EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://elitex.me:80/live/cristianne/cristianne/102.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/102
 #EXTINF:-1,SMITHSONIAN CHANNEL FHD
-http://elitex.me:80/live/cristianne/cristianne/16954.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16954
 #EXTINF:-1,SMITHSONIAN CHANNEL HD
-http://elitex.me:80/live/cristianne/cristianne/16953.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16953
 #EXTINF:-1,SMITHSONIAN CHANNEL SD
-http://elitex.me:80/live/cristianne/cristianne/16952.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/16952
 #EXTINF:-1,HISTORY FHD
-http://elitex.me:80/live/cristianne/cristianne/5762.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5762
 #EXTINF:-1,HISTORY HD
-http://elitex.me:80/live/cristianne/cristianne/112.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/112
 #EXTINF:-1,HISTORY HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17119.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17119
 #EXTINF:-1,HISTORY HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2748.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2748
 #EXTINF:-1,HISTORY SD
-http://elitex.me:80/live/cristianne/cristianne/111.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/111
 #EXTINF:-1,H2 FHD
-http://elitex.me:80/live/cristianne/cristianne/9619.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9619
 #EXTINF:-1,H2 HD
-http://elitex.me:80/live/cristianne/cristianne/115.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/115
 #EXTINF:-1,H2 HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17120.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17120
 #EXTINF:-1,H2 SD
-http://elitex.me:80/live/cristianne/cristianne/114.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/114
 #EXTINF:-1,ARTE 1 FHD
-http://elitex.me:80/live/cristianne/cristianne/9647.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9647
 #EXTINF:-1,ARTE 1 HD
-http://elitex.me:80/live/cristianne/cristianne/5474.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5474
 #EXTINF:-1,CURTA! FHD
-http://elitex.me:80/live/cristianne/cristianne/9607.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9607
 #EXTINF:-1,CURTA! HD
-http://elitex.me:80/live/cristianne/cristianne/9606.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9606
 #EXTINF:-1,CURTA! SD
-http://elitex.me:80/live/cristianne/cristianne/5054.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5054
 #EXTINF:-1,GLOBO NEWS FHD
-http://elitex.me:80/live/cristianne/cristianne/5920.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5920
 #EXTINF:-1,GLOBO NEWS FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17058.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17058
 #EXTINF:-1,GLOBO NEWS HD
-http://elitex.me:80/live/cristianne/cristianne/2826.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2826
 #EXTINF:-1,GLOBO NEWS HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17164.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17164
 #EXTINF:-1,GLOBO NEWS HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4891.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4891
 #EXTINF:-1,GLOBO NEWS SD
-http://elitex.me:80/live/cristianne/cristianne/18.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/18
 #EXTINF:-1,BAND NEWS FHD
-http://elitex.me:80/live/cristianne/cristianne/4996.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4996
 #EXTINF:-1,BAND NEWS HD
-http://elitex.me:80/live/cristianne/cristianne/5843.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5843
 #EXTINF:-1,BAND NEWS SD
-http://elitex.me:80/live/cristianne/cristianne/20.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/20
 #EXTINF:-1,RECORD NEWS FHD
-http://elitex.me:80/live/cristianne/cristianne/7097.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7097
 #EXTINF:-1,RECORD NEWS HD
-http://elitex.me:80/live/cristianne/cristianne/2776.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2776
 #EXTINF:-1,RECORD NEWS HD [A]
-http://elitex.me:80/live/cristianne/cristianne/6272.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/6272
 #EXTINF:-1,RECORD NEWS SD
-http://elitex.me:80/live/cristianne/cristianne/23.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/23
 #EXTINF:-1,GLOOB FHD
-http://elitex.me:80/live/cristianne/cristianne/5918.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5918
 #EXTINF:-1,GLOOB HD
-http://elitex.me:80/live/cristianne/cristianne/2819.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2819
 #EXTINF:-1,GLOOB HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17056.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17056
 #EXTINF:-1,GLOOB HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4888.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4888
 #EXTINF:-1,GLOOB SD
-http://elitex.me:80/live/cristianne/cristianne/44.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/44
 #EXTINF:-1,GLOOBINHO FHD
-http://elitex.me:80/live/cristianne/cristianne/9202.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9202
 #EXTINF:-1,GLOOBINHO HD
-http://elitex.me:80/live/cristianne/cristianne/5346.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5346
 #EXTINF:-1,GLOOBINHO SD
-http://elitex.me:80/live/cristianne/cristianne/5347.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5347
 #EXTINF:-1,NAT GEO KIDS FHD
-http://elitex.me:80/live/cristianne/cristianne/5912.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5912
 #EXTINF:-1,NAT GEO KIDS HD
-http://elitex.me:80/live/cristianne/cristianne/4692.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4692
 #EXTINF:-1,NAT GEO KIDS HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17050.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17050
 #EXTINF:-1,NAT GEO KIDS SD
-http://elitex.me:80/live/cristianne/cristianne/4561.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4561
 #EXTINF:-1,TV RA TIM BUM FHD
-http://elitex.me:80/live/cristianne/cristianne/9643.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/9643
 #EXTINF:-1,TV RA TIM BUM HD
-http://elitex.me:80/live/cristianne/cristianne/4889.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4889
 #EXTINF:-1,TV RA TIM BUM SD
-http://elitex.me:80/live/cristianne/cristianne/41.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/41
 #EXTINF:-1,BABY TV HD
-http://elitex.me:80/live/cristianne/cristianne/4885.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4885
 #EXTINF:-1,BABY TV SD
-http://elitex.me:80/live/cristianne/cristianne/4789.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4789
 #EXTINF:-1,ZOOMOO HD
-http://elitex.me:80/live/cristianne/cristianne/5455.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5455
 #EXTINF:-1,ZOOMOO SD
-http://elitex.me:80/live/cristianne/cristianne/17470.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17470
 #EXTINF:-1,DISCOVERY KIDS FHD
-http://elitex.me:80/live/cristianne/cristianne/5926.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5926
 #EXTINF:-1,DISCOVERY KIDS HD
-http://elitex.me:80/live/cristianne/cristianne/4826.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4826
 #EXTINF:-1,DISCOVERY KIDS HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17063.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17063
 #EXTINF:-1,DISCOVERY KIDS HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4121.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4121
 #EXTINF:-1,DISCOVERY KIDS SD
-http://elitex.me:80/live/cristianne/cristianne/46.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/46
 #EXTINF:-1,DISCOVERY KIDS SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7524.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7524
 #EXTINF:-1,BOOMERANG FHD
-http://elitex.me:80/live/cristianne/cristianne/4130.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4130
 #EXTINF:-1,BOOMERANG HD
-http://elitex.me:80/live/cristianne/cristianne/5827.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5827
 #EXTINF:-1,BOOMERANG HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17040.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17040
 #EXTINF:-1,BOOMERANG HD [A]
-http://elitex.me:80/live/cristianne/cristianne/7516.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7516
 #EXTINF:-1,BOOMERANG SD [A]
-http://elitex.me:80/live/cristianne/cristianne/2872.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2872
 #EXTINF:-1,BOOMERANG SD
-http://elitex.me:80/live/cristianne/cristianne/60.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/60
 #EXTINF:-1,CARTOON NETWORK FHD
-http://elitex.me:80/live/cristianne/cristianne/5930.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5930
 #EXTINF:-1,CARTOON NETWORK FHD [A]
-http://elitex.me:80/live/cristianne/cristianne/5941.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5941
 #EXTINF:-1,CARTOON NETWORK HD
-http://elitex.me:80/live/cristianne/cristianne/63.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/63
 #EXTINF:-1,CARTOON NETWORK HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17067.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17067
 #EXTINF:-1,CARTOON NETWORK HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2868.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2868
 #EXTINF:-1,CARTOON NETWORK HD [B]
-http://elitex.me:80/live/cristianne/cristianne/5664.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5664
 #EXTINF:-1,CARTOON NETWORK SD
-http://elitex.me:80/live/cristianne/cristianne/62.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/62
 #EXTINF:-1,CARTOON NETWORK SD [A]
-http://elitex.me:80/live/cristianne/cristianne/5665.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5665
 #EXTINF:-1,TOONCAST SD
-http://elitex.me:80/live/cristianne/cristianne/48.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/48
 #EXTINF:-1,TOONCAST SD [A]
-http://elitex.me:80/live/cristianne/cristianne/2744.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2744
 #EXTINF:-1,NICK JR FHD
-http://elitex.me:80/live/cristianne/cristianne/5911.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5911
 #EXTINF:-1,NICK JR FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17049.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17049
 #EXTINF:-1,NICK JR HD
-http://elitex.me:80/live/cristianne/cristianne/5045.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5045
 #EXTINF:-1,NICK JR HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17157.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17157
 #EXTINF:-1,NICK JR HD [A]
-http://elitex.me:80/live/cristianne/cristianne/2796.ts
-#EXTINF:-1,NICK JR
-http://elitex.me:80/live/cristianne/cristianne/52.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2796
+#EXTINF:-1,NICK JR SD
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/52
 #EXTINF:-1,NICK FHD
-http://elitex.me:80/live/cristianne/cristianne/5910.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5910
 #EXTINF:-1,NICK HD
-http://elitex.me:80/live/cristianne/cristianne/4886.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/4886
 #EXTINF:-1,NICK HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17048.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17048
 #EXTINF:-1,NICK SD
-http://elitex.me:80/live/cristianne/cristianne/50.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/50
 #EXTINF:-1,DISNEY CHANNEL FHD
-http://elitex.me:80/live/cristianne/cristianne/5924.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5924
 #EXTINF:-1,DISNEY CHANNEL HD
-http://elitex.me:80/live/cristianne/cristianne/2852.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2852
 #EXTINF:-1,DISNEY CHANNEL HD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17061.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17061
 #EXTINF:-1,DISNEY CHANNEL HD [A]
-http://elitex.me:80/live/cristianne/cristianne/7530.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7530
 #EXTINF:-1,DISNEY CHANNEL SD
-http://elitex.me:80/live/cristianne/cristianne/58.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/58
 #EXTINF:-1,DISNEY CHANNEL SD [A]
-http://elitex.me:80/live/cristianne/cristianne/7531.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/7531
 #EXTINF:-1,DISNEY JUNIOR FHD
-http://elitex.me:80/live/cristianne/cristianne/5828.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5828
 #EXTINF:-1,DISNEY JUNIOR FHD [R2]
-http://elitex.me:80/live/cristianne/cristianne/17029.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17029
 #EXTINF:-1,DISNEY JUNIOR HD
-http://elitex.me:80/live/cristianne/cristianne/5645.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5645
 #EXTINF:-1,DISNEY JUNIOR HD [A]
-http://elitex.me:80/live/cristianne/cristianne/5293.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5293
 #EXTINF:-1,DISNEY JUNIOR SD
-http://elitex.me:80/live/cristianne/cristianne/56.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/56
 #EXTINF:-1,DISNEY XD HD
-http://elitex.me:80/live/cristianne/cristianne/2850.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/2850
 #EXTINF:-1,DISNEY XD SD
-http://elitex.me:80/live/cristianne/cristianne/5949.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/5949
 #EXTINF:-1,DISNEY XD SD [A]
-http://elitex.me:80/live/cristianne/cristianne/54.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/54
 #EXTINF:-1,AMC FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17317.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17317
 #EXTINF:-1,ANIMAL PLANET FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17390.ts
-#EXTINF:-1,ANIMAL PLANET H265
-http://elitex.me:80/live/cristianne/cristianne/9036.ts
-#EXTINF:-1,ARTE 1 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17389.ts
-#EXTINF:-1,AXN FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17388.ts
-#EXTINF:-1,AXN FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2990.ts
-#EXTINF:-1,AXN H265
-http://elitex.me:80/live/cristianne/cristianne/9034.ts
-#EXTINF:-1,A&E FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17318.ts
-#EXTINF:-1,A&E H265
-http://elitex.me:80/live/cristianne/cristianne/9037.ts
-#EXTINF:-1,BAND FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17316.ts
-#EXTINF:-1,BAND H265
-http://elitex.me:80/live/cristianne/cristianne/9033.ts
-#EXTINF:-1,BAND NEWS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17387.ts
-#EXTINF:-1,BAND NEWS H265
-http://elitex.me:80/live/cristianne/cristianne/9031.ts
-#EXTINF:-1,BAND SPORTS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17386.ts
-#EXTINF:-1,BAND SPORTS H265
-http://elitex.me:80/live/cristianne/cristianne/9030.ts
-#EXTINF:-1,BIS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17385.ts
-#EXTINF:-1,BIS H265
-http://elitex.me:80/live/cristianne/cristianne/9029.ts
-#EXTINF:-1,BOA VONTADE FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17280.ts
-#EXTINF:-1,BOOMERANG FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17384.ts
-#EXTINF:-1,BOOMERANG H265
-http://elitex.me:80/live/cristianne/cristianne/9028.ts
-#EXTINF:-1,CANAL BRASIL FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17383.ts
-#EXTINF:-1,CANAL BRASIL H265
-http://elitex.me:80/live/cristianne/cristianne/9027.ts
-#EXTINF:-1,CANAL RURAL H265
-http://elitex.me:80/live/cristianne/cristianne/9026.ts
-#EXTINF:-1,CANAL SONY FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17382.ts
-#EXTINF:-1,CANAL SONY H265
-http://elitex.me:80/live/cristianne/cristianne/9025.ts
-#EXTINF:-1,CARTOON NETWORK FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17381.ts
-#EXTINF:-1,CINEMAX FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17380.ts
-#EXTINF:-1,COMBATE FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17379.ts
-#EXTINF:-1,COMEDY CENTRAL FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17378.ts
-#EXTINF:-1,CURTA! FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17377.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17315.ts
-#EXTINF:-1,DISCOVERY KIDS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17313.ts
-#EXTINF:-1,DISCOVERY SCIENCE FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17312.ts
-#EXTINF:-1,THEATER FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17311.ts
-#EXTINF:-1,DISCOVERY TURBO FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17310.ts
-#EXTINF:-1,DISCOVERY TURBO FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2985.ts
-#EXTINF:-1,WORLD FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17309.ts
-#EXTINF:-1,DISCOVERY FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17279.ts
-#EXTINF:-1,DISNEY CHANNEL FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17308.ts
-#EXTINF:-1,DISNEY JUNIOR FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17307.ts
-#EXTINF:-1,DISNEY XD FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17278.ts
-#EXTINF:-1,E! FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17306.ts
-#EXTINF:-1,ESPN FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17304.ts
-#EXTINF:-1,ESPN 2 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17376.ts
-#EXTINF:-1,ESPN 2 FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2980.ts
-#EXTINF:-1,ESPN BRASIL FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17305.ts
-#EXTINF:-1,ESPN EXTRA FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17375.ts
-#EXTINF:-1,FASHION TV FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17303.ts
-#EXTINF:-1,FISH TV FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17302.ts
-#EXTINF:-1,FOOD NETWORK FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17374.ts
-#EXTINF:-1,FOX FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17373.ts
-#EXTINF:-1,FOX LIFE FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17372.ts
-#EXTINF:-1,FOX PREMIUM 1 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17371.ts
-#EXTINF:-1,FOX PREMIUM 1 FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2978.ts
-#EXTINF:-1,FOX PREMIUM 2 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17370.ts
-#EXTINF:-1,FOX SPORTS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17300.ts
-#EXTINF:-1,FOX SPORTS H265
-http://elitex.me:80/live/cristianne/cristianne/8993.ts
-#EXTINF:-1,FOX SPORTS 2 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17301.ts
-#EXTINF:-1,FUTURA FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17369.ts
-#EXTINF:-1,FX FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17368.ts
-#EXTINF:-1,FX FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2975.ts
-#EXTINF:-1,FX H265
-http://elitex.me:80/live/cristianne/cristianne/8990.ts
-#EXTINF:-1,GLOBO RJ FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17299.ts
-#EXTINF:-1,GLOBO RIO H265
-http://elitex.me:80/live/cristianne/cristianne/8985.ts
-#EXTINF:-1,GLOBO SP FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17298.ts
-#EXTINF:-1,GLOBO SP FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2974.ts
-#EXTINF:-1,GLOBO SP H265
-http://elitex.me:80/live/cristianne/cristianne/8982.ts
-#EXTINF:-1,GLOBO BRASILIA H265
-http://elitex.me:80/live/cristianne/cristianne/8989.ts
-#EXTINF:-1,GLOBO MINAS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17276.ts
-#EXTINF:-1,GLOBO MINAS H265
-http://elitex.me:80/live/cristianne/cristianne/8988.ts
-#EXTINF:-1,GLOBO NEWS H265
-http://elitex.me:80/live/cristianne/cristianne/8987.ts
-#EXTINF:-1,GLOBO NORDESTE H265
-http://elitex.me:80/live/cristianne/cristianne/8986.ts
-#EXTINF:-1,GLOBO TV LIBERAL BELEM H265
-http://elitex.me:80/live/cristianne/cristianne/8905.ts
-#EXTINF:-1,GLOBO EPTV CAMPINAS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17277.ts
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17273.ts
-#EXTINF:-1,GLOBO NEWS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17367.ts
-#EXTINF:-1,GLOBO NORDESTE FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17275.ts
-#EXTINF:-1,GLOBO RBS  PORTO ALEGRE FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17274.ts
-#EXTINF:-1,GLOOB FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17366.ts
-#EXTINF:-1,GLOOB H265
-http://elitex.me:80/live/cristianne/cristianne/8981.ts
-#EXTINF:-1,GLOOBINHO FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17272.ts
-#EXTINF:-1,GNT FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17297.ts
-#EXTINF:-1,GNT H265
-http://elitex.me:80/live/cristianne/cristianne/8980.ts
-#EXTINF:-1,GNT FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2973.ts
-#EXTINF:-1,HBO FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17363.ts
-#EXTINF:-1,HBO FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2971.ts
-#EXTINF:-1,HBO H265
-http://elitex.me:80/live/cristianne/cristianne/16743.ts
-#EXTINF:-1,HBO 2 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17365.ts
-#EXTINF:-1,HBO 2 FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2968.ts
-#EXTINF:-1,HBO 2 H265
-http://elitex.me:80/live/cristianne/cristianne/8978.ts
-#EXTINF:-1,HBO + FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2970.ts
-#EXTINF:-1,HBO + H265
-http://elitex.me:80/live/cristianne/cristianne/8973.ts
-#EXTINF:-1,HBO FAMILY FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17364.ts
-#EXTINF:-1,HBO FAMILY FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2972.ts
-#EXTINF:-1,HBO FAMILY H265
-http://elitex.me:80/live/cristianne/cristianne/8977.ts
-#EXTINF:-1,HBO + FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17362.ts
-#EXTINF:-1,HBO SIGNATURE FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17361.ts
-#EXTINF:-1,HBO SIGNATURE FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2969.ts
-#EXTINF:-1,HBO SIGNATURE H265
-http://elitex.me:80/live/cristianne/cristianne/8972.ts
-#EXTINF:-1,HISTORY FHD H265
-http://elitex.me:80/live/cristianne/cristianne/4065.ts
-#EXTINF:-1,HISTORY FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17360.ts
-#EXTINF:-1,HISTORY H265
-http://elitex.me:80/live/cristianne/cristianne/8914.ts
-#EXTINF:-1,H2 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17296.ts
-#EXTINF:-1,H2 FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2967.ts
-#EXTINF:-1,H2 H265
-http://elitex.me:80/live/cristianne/cristianne/8979.ts
-#EXTINF:-1,HOME & HEALTH FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17314.ts
-#EXTINF:-1,HOME & HEALTH FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2987.ts
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17295.ts
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2966.ts
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY H265
-http://elitex.me:80/live/cristianne/cristianne/8971.ts
-#EXTINF:-1,LIFETIME FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17359.ts
-#EXTINF:-1,LIFETIME H265
-http://elitex.me:80/live/cristianne/cristianne/8969.ts
-#EXTINF:-1,MAIS GLOBOSAT FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17358.ts
-#EXTINF:-1,MAIS GLOBOSAT H265
-http://elitex.me:80/live/cristianne/cristianne/8983.ts
-#EXTINF:-1,MAX FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17357.ts
-#EXTINF:-1,MAX H265
-http://elitex.me:80/live/cristianne/cristianne/8968.ts
-#EXTINF:-1,MAX PRIME FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17356.ts
-#EXTINF:-1,MAX PRIME H265
-http://elitex.me:80/live/cristianne/cristianne/8966.ts
-#EXTINF:-1,MAX UP FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17355.ts
-#EXTINF:-1,MAX UP H265
-http://elitex.me:80/live/cristianne/cristianne/8965.ts
-#EXTINF:-1,MEGAPIX FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17354.ts
-#EXTINF:-1,MEGAPIX FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2965.ts
-#EXTINF:-1,MEGAPIX H265
-http://elitex.me:80/live/cristianne/cristianne/8964.ts
-#EXTINF:-1,MULTISHOW FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2964.ts
-#EXTINF:-1,MULTISHOW H265
-http://elitex.me:80/live/cristianne/cristianne/8962.ts
-#EXTINF:-1,MTV FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17353.ts
-#EXTINF:-1,MTV H265
-http://elitex.me:80/live/cristianne/cristianne/8963.ts
-#EXTINF:-1,MTV LIVE FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17294.ts
-#EXTINF:-1,MULTISHOW FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17293.ts
-#EXTINF:-1,MUSIC BOX BRAZIL FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17352.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17351.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2963.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC H265
-http://elitex.me:80/live/cristianne/cristianne/8960.ts
-#EXTINF:-1,NAT GEO KIDS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17292.ts
-#EXTINF:-1,NAT GEO KIDS H265
-http://elitex.me:80/live/cristianne/cristianne/8959.ts
-#EXTINF:-1,NAT GEO WILD FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17350.ts
-#EXTINF:-1,NAT GEO WILD H265
-http://elitex.me:80/live/cristianne/cristianne/8958.ts
-#EXTINF:-1,NHK H265
-http://elitex.me:80/live/cristianne/cristianne/8956.ts
-#EXTINF:-1,NICK JR FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17349.ts
-#EXTINF:-1,NICK FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17348.ts
-#EXTINF:-1,OFF FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17347.ts
-#EXTINF:-1,PARAMOUNT FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17346.ts
-#EXTINF:-1,PARAMOUNT FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2962.ts
-#EXTINF:-1,PREMIERE CLUBES FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17342.ts
-#EXTINF:-1,PREMIERE CLUBES FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2958.ts
-#EXTINF:-1,PREMIERE 2 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17345.ts
-#EXTINF:-1,PREMIERE 3 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17344.ts
-#EXTINF:-1,PREMIERE 4 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17291.ts
-#EXTINF:-1,PREMIERE 4 FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2960.ts
-#EXTINF:-1,PREMIERE 5 FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2785.ts
-#EXTINF:-1,PREMIERE 5 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17343.ts
-#EXTINF:-1,PREMIERE 6 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17290.ts
-#EXTINF:-1,PREMIERE 7 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17289.ts
-#EXTINF:-1,PRIME BOX BRAZIL FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17340.ts
-#EXTINF:-1,RECORD NEWS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17271.ts
-#EXTINF:-1,RECORD TV FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17288.ts
-#EXTINF:-1,RECORD TV SP H265
-http://elitex.me:80/live/cristianne/cristianne/8940.ts
-#EXTINF:-1,REDE VIDA FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17339.ts
-#EXTINF:-1,REDETV! FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17270.ts
-#EXTINF:-1,SBT FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17287.ts
-#EXTINF:-1,SBT FHD H265
-http://elitex.me:80/live/cristianne/cristianne/4896.ts
-#EXTINF:-1,SMITHSONIAN FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17269.ts
-#EXTINF:-1,SPACE FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17338.ts
-#EXTINF:-1,SPORTV FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17335.ts
-#EXTINF:-1,SPORTV FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2956.ts
-#EXTINF:-1,SPORTV 2 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17337.ts
-#EXTINF:-1,SPORTV 3 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17336.ts
-#EXTINF:-1,STUDIO UNIVERSAL FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17334.ts
-#EXTINF:-1,SYFY FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17333.ts
-#EXTINF:-1,TBS FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17332.ts
-#EXTINF:-1,TELECINE PREMIUM FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17327.ts
-#EXTINF:-1,TELECINE PREMIUM FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2952.ts
-#EXTINF:-1,TELECINE PREMIUM H265
-http://elitex.me:80/live/cristianne/cristianne/8916.ts
-#EXTINF:-1,TTELECINE ACTION FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17331.ts
-#EXTINF:-1,TELECINE ACTION FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2954.ts
-#EXTINF:-1,TELECINE ACTION H265
-http://elitex.me:80/live/cristianne/cristianne/8920.ts
-#EXTINF:-1,TELECINE PIPOCA FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17328.ts
-#EXTINF:-1,TELECINE PIPOCA FHD H265
-http://elitex.me:80/live/cristianne/cristianne/6566.ts
-#EXTINF:-1,TELECINE PIPOCA H265
-http://elitex.me:80/live/cristianne/cristianne/8917.ts
-#EXTINF:-1,TELECINE FUN FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17329.ts
-#EXTINF:-1,TELECINE TOUCH FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17326.ts
-#EXTINF:-1,TELECINE TOUCH FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2951.ts
-#EXTINF:-1,TELECINE TOUCH H265
-http://elitex.me:80/live/cristianne/cristianne/8915.ts
-#EXTINF:-1,TELECINE FUN H265
-http://elitex.me:80/live/cristianne/cristianne/8918.ts
-#EXTINF:-1,TELECINE CULT FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17330.ts
-#EXTINF:-1,TELECINE CULT H265
-http://elitex.me:80/live/cristianne/cristianne/8919.ts
-#EXTINF:-1,TLC FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17268.ts
-#EXTINF:-1,TLC H265
-http://elitex.me:80/live/cristianne/cristianne/8913.ts
-#EXTINF:-1,TNT FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17325.ts
-#EXTINF:-1,TNT H265
-http://elitex.me:80/live/cristianne/cristianne/8912.ts
-#EXTINF:-1,TNT SERIES FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17324.ts
-#EXTINF:-1,TNT SERIES FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2949.ts
-#EXTINF:-1,TNT SERIES H265
-http://elitex.me:80/live/cristianne/cristianne/8911.ts
-#EXTINF:-1,TBS FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2955.ts
-#EXTINF:-1,THEATER FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2986.ts
-#EXTINF:-1,TOONCAST H265
-http://elitex.me:80/live/cristianne/cristianne/8910.ts
-#EXTINF:-1,TRAVEL BOX BRAZIL FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17284.ts
-#EXTINF:-1,TRUTV FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17267.ts
-#EXTINF:-1,TV APARECIDA FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17266.ts
-#EXTINF:-1,TV CULTURA FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17265.ts
-#EXTINF:-1,TV GAZETA FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17264.ts
-#EXTINF:-1,TV NOVO TEMPO FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17283.ts
-#EXTINF:-1,TV RA TIM BUM FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17323.ts
-#EXTINF:-1,TV BRASIL H265
-http://elitex.me:80/live/cristianne/cristianne/8907.ts
-#EXTINF:-1,TV NOVO TEMPO H265
-http://elitex.me:80/live/cristianne/cristianne/8904.ts
-#EXTINF:-1,TV5 MONDE H265
-http://elitex.me:80/live/cristianne/cristianne/8909.ts
-#EXTINF:-1,TVE H265
-http://elitex.me:80/live/cristianne/cristianne/8906.ts
-#EXTINF:-1,UNIVERSAL FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17322.ts
-#EXTINF:-1,UNIVERSAL FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2948.ts
-#EXTINF:-1,UNIVERSAL H265
-http://elitex.me:80/live/cristianne/cristianne/8902.ts
-#EXTINF:-1,VH1 FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17321.ts
-#EXTINF:-1,VIVA FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17320.ts
-#EXTINF:-1,VIVA FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2947.ts
-#EXTINF:-1,VIVA H265
-http://elitex.me:80/live/cristianne/cristianne/8900.ts
-#EXTINF:-1,VH1 MEGAHITS H265
-http://elitex.me:80/live/cristianne/cristianne/8901.ts
-#EXTINF:-1,WARNER FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17319.ts
-#EXTINF:-1,WARNER FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2946.ts
-#EXTINF:-1,WARNER H265
-http://elitex.me:80/live/cristianne/cristianne/8899.ts
-#EXTINF:-1,CANÇÃO NOVA HD
-http://elitex.me:80/live/cristianne/cristianne/3290.ts
-#EXTINF:-1,CANCAO NOVA SD
-http://elitex.me:80/live/cristianne/cristianne/39.ts
-#EXTINF:-1,WOOHOO FHD H265*
-http://elitex.me:80/live/cristianne/cristianne/17281.ts
-#EXTINF:-1,WOOHOO H265
-http://elitex.me:80/live/cristianne/cristianne/8898.ts
-#EXTINF:-1,WORLD FHD H265
-http://elitex.me:80/live/cristianne/cristianne/2984.ts
-#EXTINF:-1,TV APARECIDA FHD
-http://elitex.me:80/live/cristianne/cristianne/16731.ts
-#EXTINF:-1,TV APARECIDA HD
-http://elitex.me:80/live/cristianne/cristianne/30.ts
-#EXTINF:-1,TV APARECIDA SD
-http://elitex.me:80/live/cristianne/cristianne/9601.ts
-#EXTINF:-1,REDE VIDA FHD
-http://elitex.me:80/live/cristianne/cristianne/11248.ts
-#EXTINF:-1,REDE VIDA SD
-http://elitex.me:80/live/cristianne/cristianne/5326.ts
-#EXTINF:-1,TV NOVO TEMPO FHD
-http://elitex.me:80/live/cristianne/cristianne/17223.ts
-#EXTINF:-1,TV NOVO TEMPO HD
-http://elitex.me:80/live/cristianne/cristianne/17222.ts
-#EXTINF:-1,TV NOVO TEMPO SD
-http://elitex.me:80/live/cristianne/cristianne/5528.ts
-#EXTINF:-1,REDE SUPER
-http://elitex.me:80/live/cristianne/cristianne/3009.ts
-#EXTINF:-1,REDE SECULO 21
-http://elitex.me:80/live/cristianne/cristianne/10501.ts
-#EXTINF:-1,RIT TV
-http://elitex.me:80/live/cristianne/cristianne/17469.ts
-#EXTINF:-1,TV PAI ETERNO
-http://elitex.me:80/live/cristianne/cristianne/17468.ts
-#EXTINF:-1,TV EVANGELIZAR SD
-http://elitex.me:80/live/cristianne/cristianne/5154.ts
-#EXTINF:-1,GOSPEL CARTOON
-http://elitex.me:80/live/cristianne/cristianne/7121.ts
-#EXTINF:-1,GOSPEL MOVIES TELEVISION
-http://elitex.me:80/live/cristianne/cristianne/7120.ts
-#EXTINF:-1,TV GIDEOES SD
-http://elitex.me:80/live/cristianne/cristianne/3013.ts
-#EXTINF:-1,TV VIANNEY
-http://elitex.me:80/live/cristianne/cristianne/9773.ts
-#EXTINF:-1,A&E *
-http://elitex.me:80/live/cristianne/cristianne/8164.ts
-#EXTINF:-1,ANIMAL PLANET *
-http://elitex.me:80/live/cristianne/cristianne/8163.ts
-#EXTINF:-1,ANIMAL PLANET HD *
-http://elitex.me:80/live/cristianne/cristianne/8450.ts
-#EXTINF:-1,AXN *
-http://elitex.me:80/live/cristianne/cristianne/8161.ts
-#EXTINF:-1,AXN HD *
-http://elitex.me:80/live/cristianne/cristianne/8449.ts
-#EXTINF:-1,BAND *
-http://elitex.me:80/live/cristianne/cristianne/8160.ts
-#EXTINF:-1,BAND HD *
-http://elitex.me:80/live/cristianne/cristianne/8290.ts
-#EXTINF:-1,BAND NEWS *
-http://elitex.me:80/live/cristianne/cristianne/8159.ts
-#EXTINF:-1,BAND SPORTS *
-http://elitex.me:80/live/cristianne/cristianne/8158.ts
-#EXTINF:-1,BIS *
-http://elitex.me:80/live/cristianne/cristianne/8157.ts
-#EXTINF:-1,BOOMERANG *
-http://elitex.me:80/live/cristianne/cristianne/8156.ts
-#EXTINF:-1,CANAL BRASIL *
-http://elitex.me:80/live/cristianne/cristianne/8155.ts
-#EXTINF:-1,CANAL RURAL *
-http://elitex.me:80/live/cristianne/cristianne/8177.ts
-#EXTINF:-1,CANAL SONY *
-http://elitex.me:80/live/cristianne/cristianne/8176.ts
-#EXTINF:-1,CARTOON NETWORK *
-http://elitex.me:80/live/cristianne/cristianne/8175.ts
-#EXTINF:-1,CARTOON NETWORK HD *
-http://elitex.me:80/live/cristianne/cristianne/8448.ts
-#EXTINF:-1,CINEMAX *
-http://elitex.me:80/live/cristianne/cristianne/8174.ts
-#EXTINF:-1,CNN ESPANHOL *
-http://elitex.me:80/live/cristianne/cristianne/8173.ts
-#EXTINF:-1,CNN INTERNACIONAL *
-http://elitex.me:80/live/cristianne/cristianne/8172.ts
-#EXTINF:-1,CNT *
-http://elitex.me:80/live/cristianne/cristianne/8171.ts
-#EXTINF:-1,COMBATE *
-http://elitex.me:80/live/cristianne/cristianne/8170.ts
-#EXTINF:-1,COMBATE HD *
-http://elitex.me:80/live/cristianne/cristianne/8295.ts
-#EXTINF:-1,COMEDY CENTRAL *
-http://elitex.me:80/live/cristianne/cristianne/8169.ts
-#EXTINF:-1,CULTURA *
-http://elitex.me:80/live/cristianne/cristianne/8168.ts
-#EXTINF:-1,CURTA! *
-http://elitex.me:80/live/cristianne/cristianne/8167.ts
-#EXTINF:-1,DISCOVERY *
-http://elitex.me:80/live/cristianne/cristianne/8166.ts
-#EXTINF:-1,DISCOVERY HD *
-http://elitex.me:80/live/cristianne/cristianne/8294.ts
-#EXTINF:-1,HOME & HEALTH *
-http://elitex.me:80/live/cristianne/cristianne/8165.ts
-#EXTINF:-1,HOME & HEALTH HD *
-http://elitex.me:80/live/cristianne/cristianne/8447.ts
-#EXTINF:-1,DISCOVERY KIDS *
-http://elitex.me:80/live/cristianne/cristianne/8193.ts
-#EXTINF:-1,DISCOVERY KIDS HD *
-http://elitex.me:80/live/cristianne/cristianne/8446.ts
-#EXTINF:-1,DISCOVERY TURBO *
-http://elitex.me:80/live/cristianne/cristianne/8192.ts
-#EXTINF:-1,DISCOVERY TURBO HD *
-http://elitex.me:80/live/cristianne/cristianne/8445.ts
-#EXTINF:-1,DISNEY CHANNEL *
-http://elitex.me:80/live/cristianne/cristianne/8191.ts
-#EXTINF:-1,DISNEY JUNIOR *
-http://elitex.me:80/live/cristianne/cristianne/8190.ts
-#EXTINF:-1,DISNEY XD *
-http://elitex.me:80/live/cristianne/cristianne/8189.ts
-#EXTINF:-1,E! *
-http://elitex.me:80/live/cristianne/cristianne/8187.ts
-#EXTINF:-1,ESPN *
-http://elitex.me:80/live/cristianne/cristianne/8182.ts
-#EXTINF:-1,ESPN BRASIL *
-http://elitex.me:80/live/cristianne/cristianne/8183.ts
-#EXTINF:-1,ESPN 2  *
-http://elitex.me:80/live/cristianne/cristianne/8181.ts
-#EXTINF:-1,FISH TV *
-http://elitex.me:80/live/cristianne/cristianne/8180.ts
-#EXTINF:-1,FOOD NETWORK *
-http://elitex.me:80/live/cristianne/cristianne/8179.ts
-#EXTINF:-1,FOOD NETWORK HD *
-http://elitex.me:80/live/cristianne/cristianne/8444.ts
-#EXTINF:-1,FOX *
-http://elitex.me:80/live/cristianne/cristianne/8178.ts
-#EXTINF:-1,FOX LIFE *
-http://elitex.me:80/live/cristianne/cristianne/8205.ts
-#EXTINF:-1,FOX SPORTS *
-http://elitex.me:80/live/cristianne/cristianne/8203.ts
-#EXTINF:-1,FOX SPORTS 2 *
-http://elitex.me:80/live/cristianne/cristianne/8204.ts
-#EXTINF:-1,FOX SPORTS HD *
-http://elitex.me:80/live/cristianne/cristianne/8296.ts
-#EXTINF:-1,FUTURA *
-http://elitex.me:80/live/cristianne/cristianne/8202.ts
-#EXTINF:-1,FX *
-http://elitex.me:80/live/cristianne/cristianne/8201.ts
-#EXTINF:-1,GLOBO BRASILIA *
-http://elitex.me:80/live/cristianne/cristianne/8200.ts
-#EXTINF:-1,GLOBO EPTV CAMPINAS *
-http://elitex.me:80/live/cristianne/cristianne/8184.ts
-#EXTINF:-1,GLOBO MINAS *
-http://elitex.me:80/live/cristianne/cristianne/8199.ts
-#EXTINF:-1,GLOBO NEWS *
-http://elitex.me:80/live/cristianne/cristianne/8198.ts
-#EXTINF:-1,GLOBO NORDESTE *
-http://elitex.me:80/live/cristianne/cristianne/8197.ts
-#EXTINF:-1,GLOBO RIO *
-http://elitex.me:80/live/cristianne/cristianne/8196.ts
-#EXTINF:-1,GLOBO RIO HD *
-http://elitex.me:80/live/cristianne/cristianne/8293.ts
-#EXTINF:-1,GLOBO SP *
-http://elitex.me:80/live/cristianne/cristianne/8194.ts
-#EXTINF:-1,GLOBO TV BAHIA *
-http://elitex.me:80/live/cristianne/cristianne/8231.ts
-#EXTINF:-1,GLOBO TV LIBERAL BELEM *
-http://elitex.me:80/live/cristianne/cristianne/8228.ts
-#EXTINF:-1,MAIS GLOBOSAT *
-http://elitex.me:80/live/cristianne/cristianne/8195.ts
-#EXTINF:-1,GLOOB *
-http://elitex.me:80/live/cristianne/cristianne/8221.ts
-#EXTINF:-1,GNT *
-http://elitex.me:80/live/cristianne/cristianne/8220.ts
-#EXTINF:-1,GNT HD *
-http://elitex.me:80/live/cristianne/cristianne/8443.ts
-#EXTINF:-1,H2 *
-http://elitex.me:80/live/cristianne/cristianne/8219.ts
-#EXTINF:-1,HBO *
-http://elitex.me:80/live/cristianne/cristianne/8216.ts
-#EXTINF:-1,HBO 2 *
-http://elitex.me:80/live/cristianne/cristianne/8218.ts
-#EXTINF:-1,HBO FAMILY *
-http://elitex.me:80/live/cristianne/cristianne/8217.ts
-#EXTINF:-1,HBO HD *
-http://elitex.me:80/live/cristianne/cristianne/8292.ts
-#EXTINF:-1,HBO + *
-http://elitex.me:80/live/cristianne/cristianne/8214.ts
-#EXTINF:-1,HBO SIGNATURE *
-http://elitex.me:80/live/cristianne/cristianne/8213.ts
-#EXTINF:-1,HISTORY *
-http://elitex.me:80/live/cristianne/cristianne/8237.ts
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY *
-http://elitex.me:80/live/cristianne/cristianne/8212.ts
-#EXTINF:-1,LIFETIME *
-http://elitex.me:80/live/cristianne/cristianne/8210.ts
-#EXTINF:-1,MAX *
-http://elitex.me:80/live/cristianne/cristianne/8209.ts
-#EXTINF:-1,MAX PRIME *
-http://elitex.me:80/live/cristianne/cristianne/8207.ts
-#EXTINF:-1,MAX UP *
-http://elitex.me:80/live/cristianne/cristianne/8206.ts
-#EXTINF:-1,MEGAPIX *
-http://elitex.me:80/live/cristianne/cristianne/8284.ts
-#EXTINF:-1,MTV *
-http://elitex.me:80/live/cristianne/cristianne/8283.ts
-#EXTINF:-1,MULTISHOW *
-http://elitex.me:80/live/cristianne/cristianne/8282.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC *
-http://elitex.me:80/live/cristianne/cristianne/8280.ts
-#EXTINF:-1,NAT GEO KIDS *
-http://elitex.me:80/live/cristianne/cristianne/8279.ts
-#EXTINF:-1,NAT GEO WILD *
-http://elitex.me:80/live/cristianne/cristianne/8278.ts
-#EXTINF:-1,NHK *
-http://elitex.me:80/live/cristianne/cristianne/8276.ts
-#EXTINF:-1,NICK JR *
-http://elitex.me:80/live/cristianne/cristianne/8274.ts
-#EXTINF:-1,NICK JR HD *
-http://elitex.me:80/live/cristianne/cristianne/8442.ts
-#EXTINF:-1,NICK *
-http://elitex.me:80/live/cristianne/cristianne/8275.ts
-#EXTINF:-1,OFF *
-http://elitex.me:80/live/cristianne/cristianne/8273.ts
-#EXTINF:-1,PARAMOUNT *
-http://elitex.me:80/live/cristianne/cristianne/8272.ts
-#EXTINF:-1,PREMIERE CLUBES *
-http://elitex.me:80/live/cristianne/cristianne/8262.ts
-#EXTINF:-1,PREMIERE CLUBES HD *
-http://elitex.me:80/live/cristianne/cristianne/8441.ts
-#EXTINF:-1,PREMIERE 2 *
-http://elitex.me:80/live/cristianne/cristianne/8270.ts
-#EXTINF:-1,PREMIERE 3 *
-http://elitex.me:80/live/cristianne/cristianne/8269.ts
-#EXTINF:-1,PREMIERE 4 *
-http://elitex.me:80/live/cristianne/cristianne/8268.ts
-#EXTINF:-1,PREMIERE 5 *
-http://elitex.me:80/live/cristianne/cristianne/8267.ts
-#EXTINF:-1,PREMIERE 6 *
-http://elitex.me:80/live/cristianne/cristianne/8266.ts
-#EXTINF:-1,PREMIERE 7 *
-http://elitex.me:80/live/cristianne/cristianne/8265.ts
-#EXTINF:-1,PREMIERE 8 *
-http://elitex.me:80/live/cristianne/cristianne/8264.ts
-#EXTINF:-1,PRIME BOX BRAZIL *
-http://elitex.me:80/live/cristianne/cristianne/8261.ts
-#EXTINF:-1,RECORD NEWS *
-http://elitex.me:80/live/cristianne/cristianne/8259.ts
-#EXTINF:-1,RECORD TV SP *
-http://elitex.me:80/live/cristianne/cristianne/8260.ts
-#EXTINF:-1,RECORD TV SP HD *
-http://elitex.me:80/live/cristianne/cristianne/8289.ts
-#EXTINF:-1,REDE BRASIL *
-http://elitex.me:80/live/cristianne/cristianne/8258.ts
-#EXTINF:-1,REDETV! *
-http://elitex.me:80/live/cristianne/cristianne/8257.ts
-#EXTINF:-1,REDE VIDA *
-http://elitex.me:80/live/cristianne/cristianne/8256.ts
-#EXTINF:-1,SBT *
-http://elitex.me:80/live/cristianne/cristianne/8255.ts
-#EXTINF:-1,SBT HD *
-http://elitex.me:80/live/cristianne/cristianne/8288.ts
-#EXTINF:-1,SPACE *
-http://elitex.me:80/live/cristianne/cristianne/8252.ts
-#EXTINF:-1,SPORTV *
-http://elitex.me:80/live/cristianne/cristianne/8249.ts
-#EXTINF:-1,SPORTV 2 *
-http://elitex.me:80/live/cristianne/cristianne/8251.ts
-#EXTINF:-1,SPORTV 3 *
-http://elitex.me:80/live/cristianne/cristianne/8250.ts
-#EXTINF:-1,SPORTV [A] *
-http://elitex.me:80/live/cristianne/cristianne/8248.ts
-#EXTINF:-1,SPORTV HD *
-http://elitex.me:80/live/cristianne/cristianne/8291.ts
-#EXTINF:-1,STUDIO UNIVERSAL *
-http://elitex.me:80/live/cristianne/cristianne/8247.ts
-#EXTINF:-1,SYFY *
-http://elitex.me:80/live/cristianne/cristianne/8246.ts
-#EXTINF:-1,TBS *
-http://elitex.me:80/live/cristianne/cristianne/8245.ts
-#EXTINF:-1,TCM *
-http://elitex.me:80/live/cristianne/cristianne/8244.ts
-#EXTINF:-1,TELECINE ACTION *
-http://elitex.me:80/live/cristianne/cristianne/8243.ts
-#EXTINF:-1,TELECINE ACTION HD *
-http://elitex.me:80/live/cristianne/cristianne/8440.ts
-#EXTINF:-1,TELECINE CULT *
-http://elitex.me:80/live/cristianne/cristianne/8242.ts
-#EXTINF:-1,TELECINE FUN *
-http://elitex.me:80/live/cristianne/cristianne/8241.ts
-#EXTINF:-1,TELECINE PIPOCA *
-http://elitex.me:80/live/cristianne/cristianne/8240.ts
-#EXTINF:-1,TELECINE PIPOCA HD *
-http://elitex.me:80/live/cristianne/cristianne/8439.ts
-#EXTINF:-1,TELECINE PREMIUM *
-http://elitex.me:80/live/cristianne/cristianne/8239.ts
-#EXTINF:-1,TELECINE PREMIUM HD *
-http://elitex.me:80/live/cristianne/cristianne/8438.ts
-#EXTINF:-1,TELECINE TOUCH *
-http://elitex.me:80/live/cristianne/cristianne/8238.ts
-#EXTINF:-1,TLC *
-http://elitex.me:80/live/cristianne/cristianne/8236.ts
-#EXTINF:-1,TNT *
-http://elitex.me:80/live/cristianne/cristianne/8235.ts
-#EXTINF:-1,TNT SERIES *
-http://elitex.me:80/live/cristianne/cristianne/8234.ts
-#EXTINF:-1,TOONCAST *
-http://elitex.me:80/live/cristianne/cristianne/8233.ts
-#EXTINF:-1,TV BRASIL *
-http://elitex.me:80/live/cristianne/cristianne/8230.ts
-#EXTINF:-1,TVE *
-http://elitex.me:80/live/cristianne/cristianne/8229.ts
-#EXTINF:-1,UNIVERSAL *
-http://elitex.me:80/live/cristianne/cristianne/8225.ts
-#EXTINF:-1,VH1 MEGAHITS *
-http://elitex.me:80/live/cristianne/cristianne/8224.ts
-#EXTINF:-1,VIVA *
-http://elitex.me:80/live/cristianne/cristianne/8287.ts
-#EXTINF:-1,WARNER *
-http://elitex.me:80/live/cristianne/cristianne/8286.ts
-#EXTINF:-1,WARNER HD *
-http://elitex.me:80/live/cristianne/cristianne/8437.ts
-#EXTINF:-1,WOOHOO *
-http://elitex.me:80/live/cristianne/cristianne/8285.ts
-#EXTINF:-1,A&E HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9464.ts
-#EXTINF:-1,ANIMAL PLANET HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9463.ts
-#EXTINF:-1,BOOMERANG HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9462.ts
-#EXTINF:-1,CARTOON NETWORK [F2]
-http://elitex.me:80/live/cristianne/cristianne/9024.ts
-#EXTINF:-1,CARTOON NETWORK HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9461.ts
-#EXTINF:-1,CINEMAX [F2]
-http://elitex.me:80/live/cristianne/cristianne/9023.ts
-#EXTINF:-1,CNN ESPANHOL [F2]
-http://elitex.me:80/live/cristianne/cristianne/9022.ts
-#EXTINF:-1,CNT [F2]
-http://elitex.me:80/live/cristianne/cristianne/9020.ts
-#EXTINF:-1,COMBATE [F2]
-http://elitex.me:80/live/cristianne/cristianne/9019.ts
-#EXTINF:-1,COMBATE HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9018.ts
-#EXTINF:-1,COMEDY CENTRAL [F2]
-http://elitex.me:80/live/cristianne/cristianne/9017.ts
-#EXTINF:-1,CULTURA [F2]
-http://elitex.me:80/live/cristianne/cristianne/9016.ts
-#EXTINF:-1,CURTA! [F2]
-http://elitex.me:80/live/cristianne/cristianne/9015.ts
-#EXTINF:-1,DISCOVERY [F2]
-http://elitex.me:80/live/cristianne/cristianne/9014.ts
-#EXTINF:-1,DISCOVERY HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9013.ts
-#EXTINF:-1,HOME & HEALTH [F2]
-http://elitex.me:80/live/cristianne/cristianne/9012.ts
-#EXTINF:-1,HOME & HEALTH HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9460.ts
-#EXTINF:-1,DISCOVERY KIDS [F2]
-http://elitex.me:80/live/cristianne/cristianne/9011.ts
-#EXTINF:-1,DISCOVERY TURBO [F2]
-http://elitex.me:80/live/cristianne/cristianne/9010.ts
-#EXTINF:-1,DISCOVERY TURBO HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9459.ts
-#EXTINF:-1,DISNEY CHANNEL [F2]
-http://elitex.me:80/live/cristianne/cristianne/9009.ts
-#EXTINF:-1,DISNEY CHANNEL HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9458.ts
-#EXTINF:-1,DISNEY JUNIOR [F2]
-http://elitex.me:80/live/cristianne/cristianne/9008.ts
-#EXTINF:-1,DISNEY XD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9007.ts
-#EXTINF:-1,E! [F2]
-http://elitex.me:80/live/cristianne/cristianne/9005.ts
-#EXTINF:-1,ESPN 2 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8999.ts
-#EXTINF:-1,ESPN [F2]
-http://elitex.me:80/live/cristianne/cristianne/9000.ts
-#EXTINF:-1,ESPN BRASIL [F2]
-http://elitex.me:80/live/cristianne/cristianne/9001.ts
-#EXTINF:-1,ESPN BRASIL HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9457.ts
-#EXTINF:-1,FISH TV [F2]
-http://elitex.me:80/live/cristianne/cristianne/8998.ts
-#EXTINF:-1,FOOD NETWORK [F2]
-http://elitex.me:80/live/cristianne/cristianne/8997.ts
-#EXTINF:-1,FOX [F2]
-http://elitex.me:80/live/cristianne/cristianne/8996.ts
-#EXTINF:-1,FOX HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9456.ts
-#EXTINF:-1,FOX LIFE [F2]
-http://elitex.me:80/live/cristianne/cristianne/8995.ts
-#EXTINF:-1,FOX SPORTS 2 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8994.ts
-#EXTINF:-1,FUTURA [F2]
-http://elitex.me:80/live/cristianne/cristianne/8991.ts
-#EXTINF:-1,GLOBO EPTV CAMPINAS [F2]
-http://elitex.me:80/live/cristianne/cristianne/9002.ts
-#EXTINF:-1,GLOBO NEWS HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9455.ts
-#EXTINF:-1,GLOBO RIO HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/8984.ts
-#EXTINF:-1,GLOBO SP HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9454.ts
-#EXTINF:-1,HBO 2 HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9453.ts
-#EXTINF:-1,MAX HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9452.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9450.ts
-#EXTINF:-1,NICK JR [F2]
-http://elitex.me:80/live/cristianne/cristianne/8954.ts
-#EXTINF:-1,NICK JR HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9449.ts
-#EXTINF:-1,NICK [F2]
-http://elitex.me:80/live/cristianne/cristianne/8955.ts
-#EXTINF:-1,OFF [F2]
-http://elitex.me:80/live/cristianne/cristianne/8953.ts
-#EXTINF:-1,PARAMOUNT [F2]
-http://elitex.me:80/live/cristianne/cristianne/8952.ts
-#EXTINF:-1,PREMIERE CLUBES [F2]
-http://elitex.me:80/live/cristianne/cristianne/8942.ts
-#EXTINF:-1,PREMIERE CLUBES HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9448.ts
-#EXTINF:-1,PREMIERE 2 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8950.ts
-#EXTINF:-1,PREMIERE 3 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8949.ts
-#EXTINF:-1,PREMIERE 4 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8948.ts
-#EXTINF:-1,PREMIERE 5 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8947.ts
-#EXTINF:-1,PREMIERE 6 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8946.ts
-#EXTINF:-1,PREMIERE 7 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8945.ts
-#EXTINF:-1,PREMIERE 8 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8944.ts
-#EXTINF:-1,PRIME BOX BRAZIL [F2]
-http://elitex.me:80/live/cristianne/cristianne/8941.ts
-#EXTINF:-1,RECORD NEWS [F2]
-http://elitex.me:80/live/cristianne/cristianne/8938.ts
-#EXTINF:-1,REDE BRASIL [F2]
-http://elitex.me:80/live/cristianne/cristianne/8937.ts
-#EXTINF:-1,REDETV! [F2]
-http://elitex.me:80/live/cristianne/cristianne/8936.ts
-#EXTINF:-1,REDE VIDA [F2]
-http://elitex.me:80/live/cristianne/cristianne/8935.ts
-#EXTINF:-1,SBT [F2]
-http://elitex.me:80/live/cristianne/cristianne/8934.ts
-#EXTINF:-1,SBT HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/8933.ts
-#EXTINF:-1,SPACE [F2]
-http://elitex.me:80/live/cristianne/cristianne/8930.ts
-#EXTINF:-1,SPORTV [F2]
-http://elitex.me:80/live/cristianne/cristianne/8927.ts
-#EXTINF:-1,SPORTV HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/8926.ts
-#EXTINF:-1,SPORTV 2 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8929.ts
-#EXTINF:-1,SPORTV 3 [F2]
-http://elitex.me:80/live/cristianne/cristianne/8928.ts
-#EXTINF:-1,SPORTV [A] [F2]
-http://elitex.me:80/live/cristianne/cristianne/8925.ts
-#EXTINF:-1,STUDIO UNIVERSAL [F2]
-http://elitex.me:80/live/cristianne/cristianne/8924.ts
-#EXTINF:-1,STUDIO UNIVERSAL HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9447.ts
-#EXTINF:-1,SYFY [F2]
-http://elitex.me:80/live/cristianne/cristianne/8923.ts
-#EXTINF:-1,TBS [F2]
-http://elitex.me:80/live/cristianne/cristianne/8922.ts
-#EXTINF:-1,TCM [F2]
-http://elitex.me:80/live/cristianne/cristianne/8921.ts
-#EXTINF:-1,TELECINE ACTION HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9446.ts
-#EXTINF:-1,TNT HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9445.ts
-#EXTINF:-1,UNIVERSAL HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9444.ts
-#EXTINF:-1,WARNER HD [F2]
-http://elitex.me:80/live/cristianne/cristianne/9443.ts
-#EXTINF:-1,[24H] 101 DALMATAS
-http://elitex.me:80/live/cristianne/cristianne/11200.ts
-#EXTINF:-1,[24H] 3 PALAVRINHAS
-http://elitex.me:80/live/cristianne/cristianne/11125.ts
-#EXTINF:-1,[24H] A BRUXINHA SABRINA
-http://elitex.me:80/live/cristianne/cristianne/11199.ts
-#EXTINF:-1,[24H] A FAMÍLIA ADDAMS
-http://elitex.me:80/live/cristianne/cristianne/11198.ts
-#EXTINF:-1,[24H] A NOSSA TURMA
-http://elitex.me:80/live/cristianne/cristianne/16845.ts
-#EXTINF:-1,[24H] A PANTERA COR DE ROSA
-http://elitex.me:80/live/cristianne/cristianne/11135.ts
-#EXTINF:-1,[24H] A PEQUENA SEREIA
-http://elitex.me:80/live/cristianne/cristianne/11093.ts
-#EXTINF:-1,[24H] A TURMA DO CHARLIE BROWN E SNOOPY
-http://elitex.me:80/live/cristianne/cristianne/11197.ts
-#EXTINF:-1,[24H] A TURMA DO PATETA
-http://elitex.me:80/live/cristianne/cristianne/16844.ts
-#EXTINF:-1,[24H] A VACA E O FRANGO
-http://elitex.me:80/live/cristianne/cristianne/11106.ts
-#EXTINF:-1,[24H] ALADDIN
-http://elitex.me:80/live/cristianne/cristianne/11134.ts
-#EXTINF:-1,[24H] ANDY PANDA
-http://elitex.me:80/live/cristianne/cristianne/16843.ts
-#EXTINF:-1,[24H] ANIMANIACS
-http://elitex.me:80/live/cristianne/cristianne/11196.ts
-#EXTINF:-1,[24H] AS AVENTURAS DE JACKIE CHAN
-http://elitex.me:80/live/cristianne/cristianne/11195.ts
-#EXTINF:-1,[24H] AS AVENTURAS DE PIGGLEY WINKS
-http://elitex.me:80/live/cristianne/cristianne/11194.ts
-#EXTINF:-1,[24H] AS AVENTURAS DE TINTIN
-http://elitex.me:80/live/cristianne/cristianne/11133.ts
-#EXTINF:-1,[24H] AS AVENTURAS DO GATO DE BOTAS
-http://elitex.me:80/live/cristianne/cristianne/16813.ts
-#EXTINF:-1,[24H] AS MENINAS SUPERPODEROSAS
-http://elitex.me:80/live/cristianne/cristianne/11193.ts
-#EXTINF:-1,[24H] AS MUMIAS VIVAS
-http://elitex.me:80/live/cristianne/cristianne/11192.ts
-#EXTINF:-1,[24H] AS TARTARUGAS NINJA
-http://elitex.me:80/live/cristianne/cristianne/16842.ts
-#EXTINF:-1,[24H] AS TRAPALHADAS DE FLAPJACK
-http://elitex.me:80/live/cristianne/cristianne/11191.ts
-#EXTINF:-1,[24H] AVATAR LIVRO 1 2 3
-http://elitex.me:80/live/cristianne/cristianne/11190.ts
-#EXTINF:-1,[24H] BABY LOONEY TOONES
-http://elitex.me:80/live/cristianne/cristianne/11189.ts
-#EXTINF:-1,[24H] BACKYARDIGANS
-http://elitex.me:80/live/cristianne/cristianne/11188.ts
-#EXTINF:-1,[24H] BARNEY E SEUS AMIGOS
-http://elitex.me:80/live/cristianne/cristianne/11187.ts
-#EXTINF:-1,[24H] BEN 10 SUPREMACIA ALIENÍGENA
-http://elitex.me:80/live/cristianne/cristianne/11186.ts
-#EXTINF:-1,[24H] BOB PAI E BOB FILHO
-http://elitex.me:80/live/cristianne/cristianne/16841.ts
-#EXTINF:-1,[24H] BOB ESPONJA
-http://elitex.me:80/live/cristianne/cristianne/11098.ts
-#EXTINF:-1,[24H] BOB ZOOM
-http://elitex.me:80/live/cristianne/cristianne/16840.ts
-#EXTINF:-1,[24H] CAPITAO PLANETA
-http://elitex.me:80/live/cristianne/cristianne/11185.ts
-#EXTINF:-1,[24H] CARMEN SANDIEGO
-http://elitex.me:80/live/cristianne/cristianne/16839.ts
-#EXTINF:-1,[24H] CASTELO RA-TIM-BUM
-http://elitex.me:80/live/cristianne/cristianne/10599.ts
-#EXTINF:-1,[24H] CAVALEIROS DO ZODIACO - 12 CASAS
-http://elitex.me:80/live/cristianne/cristianne/5430.ts
-#EXTINF:-1,[24H] CAVALEIROS DO ZODIACO - ASGARD
-http://elitex.me:80/live/cristianne/cristianne/5432.ts
-#EXTINF:-1,[24H] CAVALEIROS DO ZODIACO - POSEIDON
-http://elitex.me:80/live/cristianne/cristianne/5434.ts
-#EXTINF:-1,[24H] CAVALO DE FOGO
-http://elitex.me:80/live/cristianne/cristianne/11097.ts
-#EXTINF:-1,[24H] CAVERNA DO DRAGAO
-http://elitex.me:80/live/cristianne/cristianne/11107.ts
-#EXTINF:-1,[24H] COELHO RICOCHETE E BLAU BLAU
-http://elitex.me:80/live/cristianne/cristianne/11105.ts
-#EXTINF:-1,[24H] CORAGEM O CAO COVARDE
-http://elitex.me:80/live/cristianne/cristianne/11129.ts
-#EXTINF:-1,[24H] CORRIDA ESPACIAL
-http://elitex.me:80/live/cristianne/cristianne/11184.ts
-#EXTINF:-1,[24H] CORRIDA MALUCA
-http://elitex.me:80/live/cristianne/cristianne/11128.ts
-#EXTINF:-1,[24H] DANIEL TIGRE
-http://elitex.me:80/live/cristianne/cristianne/11183.ts
-#EXTINF:-1,[24H] DE VOLTA PARA O FUTURO
-http://elitex.me:80/live/cristianne/cristianne/16838.ts
-#EXTINF:-1,[24H] DEBY E LOID
-http://elitex.me:80/live/cristianne/cristianne/11181.ts
-#EXTINF:-1,[24H] DENIS O PIMENTINHA
-http://elitex.me:80/live/cristianne/cristianne/11127.ts
-#EXTINF:-1,[24H] DESENHOS BIBLICOS
-http://elitex.me:80/live/cristianne/cristianne/11182.ts
-#EXTINF:-1,[24H] DON DRACULA
-http://elitex.me:80/live/cristianne/cristianne/16836.ts
-#EXTINF:-1,[24H] DORA & DIEGO
-http://elitex.me:80/live/cristianne/cristianne/5394.ts
-#EXTINF:-1,[24H] DORA A AVENTUREIRA
-http://elitex.me:80/live/cristianne/cristianne/11096.ts
-#EXTINF:-1,[24H] DOUG
-http://elitex.me:80/live/cristianne/cristianne/11180.ts
-#EXTINF:-1,[24H] DRAGON BALL
-http://elitex.me:80/live/cristianne/cristianne/16687.ts
-#EXTINF:-1,[24H] DRAGON BALL GT
-http://elitex.me:80/live/cristianne/cristianne/16681.ts
-#EXTINF:-1,[24H] DRAGON BALL KAI
-http://elitex.me:80/live/cristianne/cristianne/16680.ts
-#EXTINF:-1,[24H] DRAGON BALL SUPER
-http://elitex.me:80/live/cristianne/cristianne/5594.ts
-#EXTINF:-1,[24H] DRAGON BALL Z  - SAGA DO FREEZA
-http://elitex.me:80/live/cristianne/cristianne/16685.ts
-#EXTINF:-1,[24H] DRAGON BALL Z - SAGA DO ANDROIDE CELL
-http://elitex.me:80/live/cristianne/cristianne/5583.ts
-#EXTINF:-1,[24H] DRAGON BALL Z - SAGA DO GARLIC JR.
-http://elitex.me:80/live/cristianne/cristianne/16684.ts
-#EXTINF:-1,[24H] DRAGON BALL Z - SAGA DO MAJIN BOO
-http://elitex.me:80/live/cristianne/cristianne/16682.ts
-#EXTINF:-1,[24H] DRAGON BALL Z - SAGA DO TORNEIO DO OUTRO MUNDO
-http://elitex.me:80/live/cristianne/cristianne/16683.ts
-#EXTINF:-1,[24H] DRAGON BALL Z - SAGA DOS SAYAJINS
-http://elitex.me:80/live/cristianne/cristianne/16686.ts
-#EXTINF:-1,[24H] DUCKTALES
-http://elitex.me:80/live/cristianne/cristianne/11101.ts
-#EXTINF:-1,[24H] ESQUILO SEM GRILO
-http://elitex.me:80/live/cristianne/cristianne/11126.ts
-#EXTINF:-1,[24H] EU SOU O MAXIMO
-http://elitex.me:80/live/cristianne/cristianne/11108.ts
-#EXTINF:-1,[24H] FABULAS DA DISNEY
-http://elitex.me:80/live/cristianne/cristianne/11179.ts
-#EXTINF:-1,[24H] FAMILIA DINOSSAURO
-http://elitex.me:80/live/cristianne/cristianne/11178.ts
-#EXTINF:-1,[24H] FRANKENSTEIN JR E OS IMPOSSIVEIS
-http://elitex.me:80/live/cristianne/cristianne/11123.ts
-#EXTINF:-1,[24H] FREAKAZOID
-http://elitex.me:80/live/cristianne/cristianne/11177.ts
-#EXTINF:-1,[24H] GALINHA PINTADINHA
-http://elitex.me:80/live/cristianne/cristianne/6307.ts
-#EXTINF:-1,[24H] GARFIELD E SEUS AMIGOS
-http://elitex.me:80/live/cristianne/cristianne/16834.ts
-#EXTINF:-1,[24H] GASPARZINHO O FANTASMA ESPACIAL
-http://elitex.me:80/live/cristianne/cristianne/16833.ts
-#EXTINF:-1,[24H] GATO FELIX
-http://elitex.me:80/live/cristianne/cristianne/16832.ts
-#EXTINF:-1,[24H] HAMTARO
-http://elitex.me:80/live/cristianne/cristianne/16831.ts
-#EXTINF:-1,[24H] HE-MAN
-http://elitex.me:80/live/cristianne/cristianne/16830.ts
-#EXTINF:-1,[24H] HELLO KITTY
-http://elitex.me:80/live/cristianne/cristianne/16829.ts
-#EXTINF:-1,[24H] HOMEM PÁSSARO
-http://elitex.me:80/live/cristianne/cristianne/16771.ts
-#EXTINF:-1,[24H] HORA DE AVENTURA
-http://elitex.me:80/live/cristianne/cristianne/5435.ts
-#EXTINF:-1,[24H] ILHA DOS DESAFIOS
-http://elitex.me:80/live/cristianne/cristianne/11174.ts
-#EXTINF:-1,[24H] INVASOR ZIM
-http://elitex.me:80/live/cristianne/cristianne/11173.ts
-#EXTINF:-1,[24H] JAMBO E RUIVAO
-http://elitex.me:80/live/cristianne/cristianne/11122.ts
-#EXTINF:-1,[24H] JASPION
-http://elitex.me:80/live/cristianne/cristianne/11172.ts
-#EXTINF:-1,[24H] JOHNNY BRAVO
-http://elitex.me:80/live/cristianne/cristianne/11171.ts
-#EXTINF:-1,[24H] JONNY QUEST
-http://elitex.me:80/live/cristianne/cristianne/11120.ts
-#EXTINF:-1,[24H] JOSIE E AS GATINHAS
-http://elitex.me:80/live/cristianne/cristianne/11170.ts
-#EXTINF:-1,[24H] KICK BUTTOWSKI
-http://elitex.me:80/live/cristianne/cristianne/16828.ts
-#EXTINF:-1,[24H] KND A TURMA DO BAIRRO
-http://elitex.me:80/live/cristianne/cristianne/16827.ts
-#EXTINF:-1,[24H] LARVA
-http://elitex.me:80/live/cristianne/cristianne/5584.ts
-#EXTINF:-1,[24H] LIGA DA JUSTICA
-http://elitex.me:80/live/cristianne/cristianne/5472.ts
-#EXTINF:-1,[24H] LIGEIRINHO
-http://elitex.me:80/live/cristianne/cristianne/11113.ts
-#EXTINF:-1,[24H] LOONEY TUNES
-http://elitex.me:80/live/cristianne/cristianne/16765.ts
-#EXTINF:-1,[24H] LULA LELÉ
-http://elitex.me:80/live/cristianne/cristianne/16769.ts
-#EXTINF:-1,[24H] LULUZINHA
-http://elitex.me:80/live/cristianne/cristianne/11168.ts
-#EXTINF:-1,[24H] MAGUILA O GORILA
-http://elitex.me:80/live/cristianne/cristianne/11110.ts
-#EXTINF:-1,[24H] MANDA CHUVA
-http://elitex.me:80/live/cristianne/cristianne/11103.ts
-#EXTINF:-1,[24H] MANUAL DO NED
-http://elitex.me:80/live/cristianne/cristianne/16825.ts
-#EXTINF:-1,[24H] MARTIN MYSTERY
-http://elitex.me:80/live/cristianne/cristianne/16823.ts
-#EXTINF:-1,[24H] MASHA E O URSO
-http://elitex.me:80/live/cristianne/cristianne/11167.ts
-#EXTINF:-1,[24H] MEDABOTS
-http://elitex.me:80/live/cristianne/cristianne/16822.ts
-#EXTINF:-1,[24H] MEGAMAN
-http://elitex.me:80/live/cristianne/cristianne/11166.ts
-#EXTINF:-1,[24H] MEGAS XLR
-http://elitex.me:80/live/cristianne/cristianne/16821.ts
-#EXTINF:-1,[24H] MEU AMIGAOZAO
-http://elitex.me:80/live/cristianne/cristianne/11141.ts
-#EXTINF:-1,[24H] MEU AMIGO DA ESCOLA É UM MACACO
-http://elitex.me:80/live/cristianne/cristianne/16820.ts
-#EXTINF:-1,[24H] MIB HOMENS DE PRETO
-http://elitex.me:80/live/cristianne/cristianne/11165.ts
-#EXTINF:-1,[24H] MICKEY MOUSE E SEUS AMIGOS
-http://elitex.me:80/live/cristianne/cristianne/11140.ts
-#EXTINF:-1,[24H] MISSION HILL
-http://elitex.me:80/live/cristianne/cristianne/11164.ts
-#EXTINF:-1,[24H] MORANGUINHO
-http://elitex.me:80/live/cristianne/cristianne/16819.ts
-#EXTINF:-1,[24H] MORANGUINHO CLÁSSICO
-http://elitex.me:80/live/cristianne/cristianne/11163.ts
-#EXTINF:-1,[24H] MORTAL KOMBAT
-http://elitex.me:80/live/cristianne/cristianne/11161.ts
-#EXTINF:-1,[24H] MOSQUITO MOSQUETE E MOSCARDO
-http://elitex.me:80/live/cristianne/cristianne/11111.ts
-#EXTINF:-1,[24H] MUCHA LUCHA
-http://elitex.me:80/live/cristianne/cristianne/16817.ts
-#EXTINF:-1,[24H] MUNDO BITA
-http://elitex.me:80/live/cristianne/cristianne/11130.ts
-#EXTINF:-1,[24H] MÚSCULO TOTAL
-http://elitex.me:80/live/cristianne/cristianne/16815.ts
-#EXTINF:-1,[24H] MUTANTE REX
-http://elitex.me:80/live/cristianne/cristianne/11160.ts
-#EXTINF:-1,[24H] NARUTO
-http://elitex.me:80/live/cristianne/cristianne/16733.ts
-#EXTINF:-1,[24H] O ACAMPAMENTO DE LAZLO
-http://elitex.me:80/live/cristianne/cristianne/16814.ts
-#EXTINF:-1,[24H] O INSPETOR
-http://elitex.me:80/live/cristianne/cristianne/11119.ts
-#EXTINF:-1,[24H] O MASKARA
-http://elitex.me:80/live/cristianne/cristianne/16812.ts
-#EXTINF:-1,[24H] O PEQUENO SCOOBY DOO
-http://elitex.me:80/live/cristianne/cristianne/16811.ts
-#EXTINF:-1,[24H] O PEQUENO URSO
-http://elitex.me:80/live/cristianne/cristianne/16768.ts
-#EXTINF:-1,[24H] O PRINCIPE DRAGAO
-http://elitex.me:80/live/cristianne/cristianne/11095.ts
-#EXTINF:-1,[24H] SCOOBY DOO - O QUE HA DE NOVO SCOOBY DOO
-http://elitex.me:80/live/cristianne/cristianne/11157.ts
-#EXTINF:-1,[24H] O SHOW DO ZÉ COLMEIA
-http://elitex.me:80/live/cristianne/cristianne/16809.ts
-#EXTINF:-1,[24H] O XODÓ DA VOVÓ
-http://elitex.me:80/live/cristianne/cristianne/11112.ts
-#EXTINF:-1,[24H] ONIBUS MAGICO
-http://elitex.me:80/live/cristianne/cristianne/16808.ts
-#EXTINF:-1,[24H] OS ANIMAIS DO BOSQUE DOS VINTENS
-http://elitex.me:80/live/cristianne/cristianne/11155.ts
-#EXTINF:-1,[24H] OS CASTORES PIRADOS
-http://elitex.me:80/live/cristianne/cristianne/16807.ts
-#EXTINF:-1,[24H] OS FLINTSTONES
-http://elitex.me:80/live/cristianne/cristianne/5437.ts
-#EXTINF:-1,[24H] OS JETSONS
-http://elitex.me:80/live/cristianne/cristianne/11102.ts
-#EXTINF:-1,[24H] OS JOVENS TITÃS
-http://elitex.me:80/live/cristianne/cristianne/16806.ts
-#EXTINF:-1,[24H] OS MELHORES DA HANNA-BARBERA
-http://elitex.me:80/live/cristianne/cristianne/11094.ts
-#EXTINF:-1,[24H] OS PADRINHOS MAGICOS
-http://elitex.me:80/live/cristianne/cristianne/11152.ts
-#EXTINF:-1,[24H] OS PINGUINS DE MADAGASCAR
-http://elitex.me:80/live/cristianne/cristianne/11154.ts
-#EXTINF:-1,[24H] OS SETE MOSTRINHOS
-http://elitex.me:80/live/cristianne/cristianne/16805.ts
-#EXTINF:-1,[24H] OS SIMPSONS
-http://elitex.me:80/live/cristianne/cristianne/6879.ts
-#EXTINF:-1,[24H] OS SUPER PATOS
-http://elitex.me:80/live/cristianne/cristianne/16767.ts
-#EXTINF:-1,[24H] OS URSINHOS GUMMI
-http://elitex.me:80/live/cristianne/cristianne/16804.ts
-#EXTINF:-1,[24H] OS VALENTES COWBOYS DE MOO MESA
-http://elitex.me:80/live/cristianne/cristianne/11139.ts
-#EXTINF:-1,[24H] PAPA-LÉGUAS E O COIOTE
-http://elitex.me:80/live/cristianne/cristianne/16803.ts
-#EXTINF:-1,[24H] PATATI PATATA
-http://elitex.me:80/live/cristianne/cristianne/16802.ts
-#EXTINF:-1,[24H] PATRULHA CANINA
-http://elitex.me:80/live/cristianne/cristianne/17534.ts
-#EXTINF:-1,[24H] PATRULHA ESTELAR
-http://elitex.me:80/live/cristianne/cristianne/16766.ts
-#EXTINF:-1,[24H] PEPE LEGAL
-http://elitex.me:80/live/cristianne/cristianne/7790.ts
-#EXTINF:-1,[24H] PEPPA PIG
-http://elitex.me:80/live/cristianne/cristianne/6878.ts
-#EXTINF:-1,[24H] PHINEAS E FERB
-http://elitex.me:80/live/cristianne/cristianne/16801.ts
-#EXTINF:-1,[24H] PICA-PAU
-http://elitex.me:80/live/cristianne/cristianne/5577.ts
-#EXTINF:-1,[24H] PICA-PAU O NOVO SHOW
-http://elitex.me:80/live/cristianne/cristianne/16810.ts
-#EXTINF:-1,[24H] PINKY E CÉREBRO
-http://elitex.me:80/live/cristianne/cristianne/16764.ts
-#EXTINF:-1,[24H] PJ MASKS
-http://elitex.me:80/live/cristianne/cristianne/5562.ts
-#EXTINF:-1,[24H] PLANET SURVIVAL
-http://elitex.me:80/live/cristianne/cristianne/16800.ts
-#EXTINF:-1,[24H] PLAYKIDS FHD
-http://elitex.me:80/live/cristianne/cristianne/9817.ts
-#EXTINF:-1,[24H] PLAYKIDS HD
-http://elitex.me:80/live/cristianne/cristianne/9818.ts
-#EXTINF:-1,[24H] POCOYO
-http://elitex.me:80/live/cristianne/cristianne/17258.ts
-#EXTINF:-1,[24H] POKEMON T01 - LIGA INDIGO
-http://elitex.me:80/live/cristianne/cristianne/17433.ts
-#EXTINF:-1,[24H] POKEMON T02 - AVENTURAS NA ILHA LARANJA
-http://elitex.me:80/live/cristianne/cristianne/17432.ts
-#EXTINF:-1,[24H] POKEMON T03 - JORNADA JOHTO
-http://elitex.me:80/live/cristianne/cristianne/17431.ts
-#EXTINF:-1,[24H] POKEMON T04 - CAMPEÕES DA LIGA JOHTO
-http://elitex.me:80/live/cristianne/cristianne/17430.ts
-#EXTINF:-1,[24H] POKEMON T05 - MASTER QUEST
-http://elitex.me:80/live/cristianne/cristianne/17429.ts
-#EXTINF:-1,[24H] POKEMON T06 - AVANÇADO
-http://elitex.me:80/live/cristianne/cristianne/17428.ts
-#EXTINF:-1,[24H] POKEMON T07 - DESAFIO AVANÇADO
-http://elitex.me:80/live/cristianne/cristianne/17427.ts
-#EXTINF:-1,[24H] POKEMON T08 - BATALHA AVANÇADA
-http://elitex.me:80/live/cristianne/cristianne/17426.ts
-#EXTINF:-1,[24H] POKEMON T09 - BATALHA DA FRONTEIRA
-http://elitex.me:80/live/cristianne/cristianne/17425.ts
-#EXTINF:-1,[24H] POKEMON T10 - DIAMANTE E PEROLA
-http://elitex.me:80/live/cristianne/cristianne/17424.ts
-#EXTINF:-1,[24H] POKEMON T11 - BATALHA DIMENSIONAL
-http://elitex.me:80/live/cristianne/cristianne/17423.ts
-#EXTINF:-1,[24H] POKEMON T12 - BATALHAS GALATICAS
-http://elitex.me:80/live/cristianne/cristianne/17422.ts
-#EXTINF:-1,[24H] POPEYE
-http://elitex.me:80/live/cristianne/cristianne/16799.ts
-#EXTINF:-1,[24H] POWER STONE
-http://elitex.me:80/live/cristianne/cristianne/16798.ts
-#EXTINF:-1,[24H] PROJETO ZETA
-http://elitex.me:80/live/cristianne/cristianne/16762.ts
-#EXTINF:-1,[24H] RAMBO - A FORÇA DA LIBERDADE
-http://elitex.me:80/live/cristianne/cristianne/16797.ts
-#EXTINF:-1,[24H] RECRUTA ZERO
-http://elitex.me:80/live/cristianne/cristianne/11115.ts
-#EXTINF:-1,[24H] REDAKAI
-http://elitex.me:80/live/cristianne/cristianne/16796.ts
-#EXTINF:-1,[24H] RIQUINHO
-http://elitex.me:80/live/cristianne/cristianne/16795.ts
-#EXTINF:-1,[24H] ROCKET POWER
-http://elitex.me:80/live/cristianne/cristianne/16761.ts
-#EXTINF:-1,[24H] SAKURA CARD CAPTORS
-http://elitex.me:80/live/cristianne/cristianne/16794.ts
-#EXTINF:-1,[24H] SAMURAI WARRIORS
-http://elitex.me:80/live/cristianne/cristianne/16793.ts
-#EXTINF:-1,[24H] SCOOBY DOO
-http://elitex.me:80/live/cristianne/cristianne/11100.ts
-#EXTINF:-1,[24H] SHAMAN KING
-http://elitex.me:80/live/cristianne/cristianne/16792.ts
-#EXTINF:-1,[24H] SHE-RA
-http://elitex.me:80/live/cristianne/cristianne/16760.ts
-#EXTINF:-1,[24H] SHINZO
-http://elitex.me:80/live/cristianne/cristianne/16791.ts
-#EXTINF:-1,[24H] SHOW DA LUNA
-http://elitex.me:80/live/cristianne/cristianne/6006.ts
-#EXTINF:-1,[24H] SHURATO
-http://elitex.me:80/live/cristianne/cristianne/16790.ts
-#EXTINF:-1,[24H] SILVERHAWKS
-http://elitex.me:80/live/cristianne/cristianne/16789.ts
-#EXTINF:-1,[24H] SITIO DO PICA-PAU AMARELO ANIMADO
-http://elitex.me:80/live/cristianne/cristianne/11137.ts
-#EXTINF:-1,[24H] SOUTH PARK
-http://elitex.me:80/live/cristianne/cristianne/16679.ts
-#EXTINF:-1,[24H] SPACE GHOST
-http://elitex.me:80/live/cristianne/cristianne/16758.ts
-#EXTINF:-1,[24H] SPEED RACER A NOVA GERAÇÃO
-http://elitex.me:80/live/cristianne/cristianne/16788.ts
-#EXTINF:-1,[24H] SPEED RACER CLÁSSICO
-http://elitex.me:80/live/cristianne/cristianne/16757.ts
-#EXTINF:-1,[24H] SUPER CHOQUE
-http://elitex.me:80/live/cristianne/cristianne/5436.ts
-#EXTINF:-1,[24H] SUPER MARIO BROS 3
-http://elitex.me:80/live/cristianne/cristianne/16787.ts
-#EXTINF:-1,[24H] TARTARUGA TOUCHE E DUM DUM
-http://elitex.me:80/live/cristianne/cristianne/11092.ts
-#EXTINF:-1,[24H] TARZAN O REI DA SELVA
-http://elitex.me:80/live/cristianne/cristianne/16756.ts
-#EXTINF:-1,[24H] TAZ-MANIA
-http://elitex.me:80/live/cristianne/cristianne/16755.ts
-#EXTINF:-1,[24H] TEAM GALAXY
-http://elitex.me:80/live/cristianne/cristianne/16785.ts
-#EXTINF:-1,[24H] TELETUBBIES
-http://elitex.me:80/live/cristianne/cristianne/16783.ts
-#EXTINF:-1,[24H] TIDDYTUBBIES
-http://elitex.me:80/live/cristianne/cristianne/16782.ts
-#EXTINF:-1,[24H] TELETUBBIES STOP MOTION
-http://elitex.me:80/live/cristianne/cristianne/16781.ts
-#EXTINF:-1,[24H] THE OBLONGS
-http://elitex.me:80/live/cristianne/cristianne/16780.ts
-#EXTINF:-1,[24H] THOMAS E SEUS AMIGOS
-http://elitex.me:80/live/cristianne/cristianne/16754.ts
-#EXTINF:-1,[24H] THUNDERCATS
-http://elitex.me:80/live/cristianne/cristianne/8896.ts
-#EXTINF:-1,[24H] TIMÃO E PUMBA
-http://elitex.me:80/live/cristianne/cristianne/16779.ts
-#EXTINF:-1,[24H] TOM E JERRY
-http://elitex.me:80/live/cristianne/cristianne/16778.ts
-#EXTINF:-1,[24H] TURMA DA MONICA
-http://elitex.me:80/live/cristianne/cristianne/5456.ts
-#EXTINF:-1,[24H] TUTUBARÃO
-http://elitex.me:80/live/cristianne/cristianne/16777.ts
-#EXTINF:-1,[24H] ULTRAMEN
-http://elitex.me:80/live/cristianne/cristianne/16776.ts
-#EXTINF:-1,[24H] URSINHOS CARINHOSOS
-http://elitex.me:80/live/cristianne/cristianne/16753.ts
-#EXTINF:-1,[24H] VALE DOS DINOSSAUROS
-http://elitex.me:80/live/cristianne/cristianne/16775.ts
-#EXTINF:-1,[24H] WALLY GATOR
-http://elitex.me:80/live/cristianne/cristianne/11114.ts
-#EXTINF:-1,[24H] X-MEN EVOLUTION
-http://elitex.me:80/live/cristianne/cristianne/11136.ts
-#EXTINF:-1,[24H] XUXA SO PARA BAIXINHOS
-http://elitex.me:80/live/cristianne/cristianne/5466.ts
-#EXTINF:-1,[24H] ZATCH BELL
-http://elitex.me:80/live/cristianne/cristianne/16774.ts
-#EXTINF:-1,[24H] ZE BUSCAPE
-http://elitex.me:80/live/cristianne/cristianne/8097.ts
-#EXTINF:-1,[24H] ELITE ACTION
-http://elitex.me:80/live/cristianne/cristianne/16966.ts
-#EXTINF:-1,[24H] ELITE DC
-http://elitex.me:80/live/cristianne/cristianne/16706.ts
-#EXTINF:-1,[24H] ELITE MARVEL
-http://elitex.me:80/live/cristianne/cristianne/7175.ts
-#EXTINF:-1,[24H] ELITE TERROR
-http://elitex.me:80/live/cristianne/cristianne/16705.ts
-#EXTINF:-1,24H PEGADINHAS JOAO KLEBER
-http://elitex.me:80/live/cristianne/cristianne/10796.ts
-#EXTINF:-1,24H PEGADINHAS SILVIO SANTOS
-http://elitex.me:80/live/cristianne/cristianne/10795.ts
-#EXTINF:-1,24H SITIO DO PICAPAU AMARELO CLASSICO
-http://elitex.me:80/live/cristianne/cristianne/10797.ts
-#EXTINF:-1,24H TRAPALHOES
-http://elitex.me:80/live/cristianne/cristianne/10798.ts
-#EXTINF:-1,24H ESCOLINHA PROFESSOR RAIMUNDO
-http://elitex.me:80/live/cristianne/cristianne/10794.ts
-#EXTINF:-1,JESUS - NOVELA RECORD 24HORAS
-http://elitex.me:80/live/cristianne/cristianne/9844.ts
-#EXTINF:-1,MASTERCHEF 24H
-http://elitex.me:80/live/cristianne/cristianne/9570.ts
-#EXTINF:-1,TOMA LA DA CA
-http://elitex.me:80/live/cristianne/cristianne/7334.ts
-#EXTINF:-1,VAI QUE COLA
-http://elitex.me:80/live/cristianne/cristianne/5445.ts
-#EXTINF:-1,SAI DE BAIXO
-http://elitex.me:80/live/cristianne/cristianne/8099.ts
-#EXTINF:-1,EU A PATROA E AS CRIANCAS TEMPORADA 1
-http://elitex.me:80/live/cristianne/cristianne/5648.ts
-#EXTINF:-1,EU A PATROA E AS CRIANCAS TEMPORADA 2
-http://elitex.me:80/live/cristianne/cristianne/11618.ts
-#EXTINF:-1,EU A PATROA E AS CRIANCAS TEMPORADA 3
-http://elitex.me:80/live/cristianne/cristianne/11619.ts
-#EXTINF:-1,EU A PATROA E AS CRIANCAS TEMPORADA 4
-http://elitex.me:80/live/cristianne/cristianne/16672.ts
-#EXTINF:-1,EU A PATROA E AS CRIANCAS TEMPORADA 5
-http://elitex.me:80/live/cristianne/cristianne/16673.ts
-#EXTINF:-1,OS TRAPALHOES SERIE
-http://elitex.me:80/live/cristianne/cristianne/5652.ts
-#EXTINF:-1,CSI
-http://elitex.me:80/live/cristianne/cristianne/5655.ts
-#EXTINF:-1,DR HOUSE
-http://elitex.me:80/live/cristianne/cristianne/5654.ts
-#EXTINF:-1,DOCTOR WHO
-http://elitex.me:80/live/cristianne/cristianne/11275.ts
-#EXTINF:-1,GREY'S ANATOMY
-http://elitex.me:80/live/cristianne/cristianne/11312.ts
-#EXTINF:-1,O SOCIO
-http://elitex.me:80/live/cristianne/cristianne/11281.ts
-#EXTINF:-1,THE BIG BANG THEORY TEMP 01 A 03
-http://elitex.me:80/live/cristianne/cristianne/5649.ts
-#EXTINF:-1,THE BIG BANG THEORY TEMP 04 A 06
-http://elitex.me:80/live/cristianne/cristianne/11620.ts
-#EXTINF:-1,THE BIG BANG THEORY TEMP 07 A 09
-http://elitex.me:80/live/cristianne/cristianne/11621.ts
-#EXTINF:-1,THE BIG BANG THEORY TEMP 10 A 12
-http://elitex.me:80/live/cristianne/cristianne/11622.ts
-#EXTINF:-1,[24H] MR BEAN
-http://elitex.me:80/live/cristianne/cristianne/16818.ts
-#EXTINF:-1,MR. BEAN
-http://elitex.me:80/live/cristianne/cristianne/5646.ts
-#EXTINF:-1,COMO EU CONHECI A SUA MAE - HOW I MEET YOU MOTHER
-http://elitex.me:80/live/cristianne/cristianne/6309.ts
-#EXTINF:-1,TWO AND HALF MAN - DOIS HOMENS E MEIO
-http://elitex.me:80/live/cristianne/cristianne/5463.ts
-#EXTINF:-1,FRIENDS
-http://elitex.me:80/live/cristianne/cristianne/5950.ts
-#EXTINF:-1,POWER RANGES - VARIOS
-http://elitex.me:80/live/cristianne/cristianne/5473.ts
-#EXTINF:-1,TODO MUNDO ODEIA O CHRIS TEMP 1
-http://elitex.me:80/live/cristianne/cristianne/5948.ts
-#EXTINF:-1,TODO MUNDO ODEIA O CHRIS TEMP 2
-http://elitex.me:80/live/cristianne/cristianne/11615.ts
-#EXTINF:-1,TODO MUNDO ODEIA O CHRIS TEMP 3
-http://elitex.me:80/live/cristianne/cristianne/11616.ts
-#EXTINF:-1,TODO MUNDO ODEIA O CHRIS TEMP 4
-http://elitex.me:80/live/cristianne/cristianne/11617.ts
-#EXTINF:-1,CHAVES
-http://elitex.me:80/live/cristianne/cristianne/5431.ts
-#EXTINF:-1,[24H] [SHOW] ENGENHEIROS DO HAWAII
-http://elitex.me:80/live/cristianne/cristianne/11144.ts
-#EXTINF:-1,[24H] [SHOW] KID ABELHA ACUSTICO
-http://elitex.me:80/live/cristianne/cristianne/11143.ts
-#EXTINF:-1,[24H] [SHOW] QUEENS ROCK MONTREAL
-http://elitex.me:80/live/cristianne/cristianne/11142.ts
-#EXTINF:-1,ABOLA TV SD [PT]
-http://elitex.me:80/live/cristianne/cristianne/1647.ts
-#EXTINF:-1,BEIN SPORTS HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/5618.ts
-#EXTINF:-1,BENFICA TV HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7081.ts
-#EXTINF:-1,BENFICA TV SD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7080.ts
-#EXTINF:-1,CBS SPORTS NETWORK HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/1728.ts
-#EXTINF:-1,ELEVEN SPORTS 1 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9858.ts
-#EXTINF:-1,ELEVEN SPORTS 1 FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17464.ts
-#EXTINF:-1,ELEVEN SPORTS 1 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9859.ts
-#EXTINF:-1,ELEVEN SPORTS 1 HD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17463.ts
-#EXTINF:-1,ELEVEN SPORTS 2 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9857.ts
-#EXTINF:-1,ELEVEN SPORTS 2 FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17462.ts
-#EXTINF:-1,ELEVEN SPORTS 2 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9860.ts
-#EXTINF:-1,ELEVEN SPORTS 2 HD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17461.ts
-#EXTINF:-1,ELEVEN SPORTS 3 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9856.ts
-#EXTINF:-1,ELEVEN SPORTS 3 FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17460.ts
-#EXTINF:-1,ELEVEN SPORTS 3 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9861.ts
-#EXTINF:-1,ELEVEN SPORTS 3 HD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17459.ts
-#EXTINF:-1,ELEVEN SPORTS 4 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9855.ts
-#EXTINF:-1,ELEVEN SPORTS 4 FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17458.ts
-#EXTINF:-1,ELEVEN SPORTS 4 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9862.ts
-#EXTINF:-1,ELEVEN SPORTS 4 HD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17457.ts
-#EXTINF:-1,ELEVEN SPORTS 5 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9854.ts
-#EXTINF:-1,ELEVEN SPORTS 5 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/17455.ts
-#EXTINF:-1,ELEVEN SPORTS 6 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/9853.ts
-#EXTINF:-1,ELEVEN SPORTS 6 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/17453.ts
-#EXTINF:-1,ESPN HD [ARG]
-http://elitex.me:80/live/cristianne/cristianne/16637.ts
-#EXTINF:-1,ESPN HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/1841.ts
-#EXTINF:-1,ESPN 2 HD [ARG]
-http://elitex.me:80/live/cristianne/cristianne/16636.ts
-#EXTINF:-1,ESPN 2 HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/5630.ts
-#EXTINF:-1,ESPN 3 HD [ARG]
-http://elitex.me:80/live/cristianne/cristianne/16635.ts
-#EXTINF:-1,ESPN DEPORTES HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/5631.ts
-#EXTINF:-1,ESPNNEWS [USA]
-http://elitex.me:80/live/cristianne/cristianne/16552.ts
-#EXTINF:-1,EUROSPORT 1 SD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7077.ts
-#EXTINF:-1,FS1 HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/1842.ts
-#EXTINF:-1,FS2 HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/4467.ts
-#EXTINF:-1,FOX DEPORTES HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/16551.ts
-#EXTINF:-1,FOX SPORTS HD [ARG]
-http://elitex.me:80/live/cristianne/cristianne/16620.ts
-#EXTINF:-1,FOX SPORTS 2 HD [ARG]
-http://elitex.me:80/live/cristianne/cristianne/16622.ts
-#EXTINF:-1,FOX SPORTS 3 HD [ARG]
-http://elitex.me:80/live/cristianne/cristianne/16621.ts
-#EXTINF:-1,FOX SPORTS PREMIUM HD [ARG]
-http://elitex.me:80/live/cristianne/cristianne/16619.ts
-#EXTINF:-1,GOLF HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/17465.ts
-#EXTINF:-1,GOLF SD [ARG]
-http://elitex.me:80/live/cristianne/cristianne/16614.ts
-#EXTINF:-1,GOLTV HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/6082.ts
-#EXTINF:-1,NBA TV HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/1807.ts
-#EXTINF:-1,NBA TV SPORT TV FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/17440.ts
-#EXTINF:-1,NBA PASS 2
-http://elitex.me:80/live/cristianne/cristianne/10419.ts
-#EXTINF:-1,NBA PASS 3
-http://elitex.me:80/live/cristianne/cristianne/10427.ts
-#EXTINF:-1,NBA PASS 4
-http://elitex.me:80/live/cristianne/cristianne/10428.ts
-#EXTINF:-1,NBC SPORTS NETWORK [USA]
-http://elitex.me:80/live/cristianne/cristianne/5640.ts
-#EXTINF:-1,NFL NETWORK HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/6077.ts
-#EXTINF:-1,NFL RED ZONE [USA]
-http://elitex.me:80/live/cristianne/cristianne/10624.ts
-#EXTINF:-1,PORTO CANAL HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7150.ts
-#EXTINF:-1,SKY SPORTS F1 FHD [UK]
-http://elitex.me:80/live/cristianne/cristianne/16554.ts
-#EXTINF:-1,SKY SPORTS GOLF [UK]
-http://elitex.me:80/live/cristianne/cristianne/16553.ts
-#EXTINF:-1,SPORT TV+ FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7037.ts
-#EXTINF:-1,SPORT TV+ FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17452.ts
-#EXTINF:-1,SPORT TV+ SD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7035.ts
-#EXTINF:-1,SPORT TV+ SD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17451.ts
-#EXTINF:-1,SPORT TV 1 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7034.ts
-#EXTINF:-1,SPORT TV 1 FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17450.ts
-#EXTINF:-1,SPORT TV 1 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7033.ts
-#EXTINF:-1,SPORT TV 1 HD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/11287.ts
-#EXTINF:-1,SPORT TV 1 SD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7032.ts
-#EXTINF:-1,SPORT TV 1 SD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17449.ts
-#EXTINF:-1,SPORT TV 2 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7031.ts
-#EXTINF:-1,SPORT TV 2 FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17447.ts
-#EXTINF:-1,SPORT TV 2 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7030.ts
-#EXTINF:-1,SPORT TV 2 HD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/11288.ts
-#EXTINF:-1,SPORT TV 2 SD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7029.ts
-#EXTINF:-1,SPORT TV 2 SD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17448.ts
-#EXTINF:-1,SPORT TV 3 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7028.ts
-#EXTINF:-1,SPORT TV 3 FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17446.ts
-#EXTINF:-1,SPORT TV 3 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7027.ts
-#EXTINF:-1,SPORT TV 3 SD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7026.ts
-#EXTINF:-1,SPORT TV 3 SD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17445.ts
-#EXTINF:-1,SPORT TV 4 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7025.ts
-#EXTINF:-1,SPORT TV 4 FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17444.ts
-#EXTINF:-1,SPORT TV 4 HD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7024.ts
-#EXTINF:-1,SPORT TV 4 SD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7023.ts
-#EXTINF:-1,SPORT TV 4 SD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17443.ts
-#EXTINF:-1,SPORT TV 5 FHD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7022.ts
-#EXTINF:-1,SPORT TV 5 FHD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17442.ts
-#EXTINF:-1,SPORT TV 5 SD [PT]
-http://elitex.me:80/live/cristianne/cristianne/7020.ts
-#EXTINF:-1,SPORT TV 5 SD [A] [PT]
-http://elitex.me:80/live/cristianne/cristianne/17441.ts
-#EXTINF:-1,SPORTING TV [PT]
-http://elitex.me:80/live/cristianne/cristianne/7017.ts
-#EXTINF:-1,SPORTSNET WORLD HD [CA]
-http://elitex.me:80/live/cristianne/cristianne/6098.ts
-#EXTINF:-1,TENNIS CHANNEL HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/4498.ts
-#EXTINF:-1,TENNIS CHANNEL SD [USA]
-http://elitex.me:80/live/cristianne/cristianne/7403.ts
-#EXTINF:-1,TSN1 FHD [CA]
-http://elitex.me:80/live/cristianne/cristianne/6096.ts
-#EXTINF:-1,TYC SPORTS HD [ARG]
-http://elitex.me:80/live/cristianne/cristianne/16571.ts
-#EXTINF:-1,WWE HD [USA]
-http://elitex.me:80/live/cristianne/cristianne/1859.ts
-#EXTINF:-1,PT: AXN FHD
-http://elitex.me:80/live/cristianne/cristianne/7086.ts
-#EXTINF:-1,PT: AXN SD
-http://elitex.me:80/live/cristianne/cristianne/7358.ts
-#EXTINF:-1,PT: AXN WHITE FHD
-http://elitex.me:80/live/cristianne/cristianne/7084.ts
-#EXTINF:-1,PT: CARTOON  NETWORK SD
-http://elitex.me:80/live/cristianne/cristianne/7141.ts
-#EXTINF:-1,PT: CBS REALITY SD
-http://elitex.me:80/live/cristianne/cristianne/7351.ts
-#EXTINF:-1,PT: CMTV SD
-http://elitex.me:80/live/cristianne/cristianne/7073.ts
-#EXTINF:-1,PT: DISCOVERY SHOWCASE SD
-http://elitex.me:80/live/cristianne/cristianne/7143.ts
-#EXTINF:-1,PT: DISNEY CHANNEL SD
-http://elitex.me:80/live/cristianne/cristianne/7144.ts
-#EXTINF:-1,PT: FOX MOVIES SD
-http://elitex.me:80/live/cristianne/cristianne/7063.ts
-#EXTINF:-1,PT: HOLLYWOOD SD
-http://elitex.me:80/live/cristianne/cristianne/7059.ts
-#EXTINF:-1,PT: MTV SD
-http://elitex.me:80/live/cristianne/cristianne/7153.ts
-#EXTINF:-1,PT: MOTORSPORT TV SD
-http://elitex.me:80/live/cristianne/cristianne/7162.ts
-#EXTINF:-1,PT: RTP 1 FHD
-http://elitex.me:80/live/cristianne/cristianne/7053.ts
-#EXTINF:-1,PT: RTP 1 HD
-http://elitex.me:80/live/cristianne/cristianne/7052.ts
-#EXTINF:-1,PT: RTP 1 SD
-http://elitex.me:80/live/cristianne/cristianne/7051.ts
-#EXTINF:-1,PT: RTP 2 SD
-http://elitex.me:80/live/cristianne/cristianne/7050.ts
-#EXTINF:-1,PT: RTP 3 HD
-http://elitex.me:80/live/cristianne/cristianne/7355.ts
-#EXTINF:-1,PT: RTP 3 SD
-http://elitex.me:80/live/cristianne/cristianne/7049.ts
-#EXTINF:-1,PT: RTP MEMORIA SD
-http://elitex.me:80/live/cristianne/cristianne/7047.ts
-#EXTINF:-1,PT: SIC FHD
-http://elitex.me:80/live/cristianne/cristianne/7046.ts
-#EXTINF:-1,PT: SIC SD
-http://elitex.me:80/live/cristianne/cristianne/7045.ts
-#EXTINF:-1,PT: SIC K SD
-http://elitex.me:80/live/cristianne/cristianne/3183.ts
-#EXTINF:-1,PT: SIC MULHER FHD
-http://elitex.me:80/live/cristianne/cristianne/7043.ts
-#EXTINF:-1,PT: SIC MULHER SD
-http://elitex.me:80/live/cristianne/cristianne/7042.ts
-#EXTINF:-1,PT: SIC NOTICIAS FHD
-http://elitex.me:80/live/cristianne/cristianne/7041.ts
-#EXTINF:-1,PT: SIC RADICAL SD
-http://elitex.me:80/live/cristianne/cristianne/7038.ts
-#EXTINF:-1,PT: TVCINE 1 FHD
-http://elitex.me:80/live/cristianne/cristianne/3131.ts
-#EXTINF:-1,PT: TVCINE 1 HD
-http://elitex.me:80/live/cristianne/cristianne/7135.ts
-#EXTINF:-1,PT: TVCINE 2 FHD
-http://elitex.me:80/live/cristianne/cristianne/7012.ts
-#EXTINF:-1,PT: TVCINE 2 HD
-http://elitex.me:80/live/cristianne/cristianne/7354.ts
-#EXTINF:-1,PT: TVCINE 3 FHD
-http://elitex.me:80/live/cristianne/cristianne/7010.ts
-#EXTINF:-1,PT: TVCINE 3 HD
-http://elitex.me:80/live/cristianne/cristianne/7353.ts
-#EXTINF:-1,PT: TVCINE 4 SD
-http://elitex.me:80/live/cristianne/cristianne/7007.ts
-#EXTINF:-1,PT: TVI FHD
-http://elitex.me:80/live/cristianne/cristianne/7001.ts
-#EXTINF:-1,PT: TRAVEL CHANNEL SD
-http://elitex.me:80/live/cristianne/cristianne/7349.ts
-#EXTINF:-1,USA: ABC NEWS
-http://elitex.me:80/live/cristianne/cristianne/10671.ts
-#EXTINF:-1,USA: CBS NEWS
-http://elitex.me:80/live/cristianne/cristianne/10670.ts
-#EXTINF:-1,USA: NEWS 12 BROOKLYN
-http://elitex.me:80/live/cristianne/cristianne/10674.ts
-#EXTINF:-1,USA: NEWS 12 LONG ISLAND
-http://elitex.me:80/live/cristianne/cristianne/10668.ts
-#EXTINF:-1,USA: WEATHER CHANNEL
-http://elitex.me:80/live/cristianne/cristianne/10669.ts
-#EXTINF:-1,USA: A&E HD
-http://elitex.me:80/live/cristianne/cristianne/1839.ts
-#EXTINF:-1,USA: ABC
-http://elitex.me:80/live/cristianne/cristianne/4490.ts
-#EXTINF:-1,USA: ABC HD USA
-http://elitex.me:80/live/cristianne/cristianne/1816.ts
-#EXTINF:-1,USA: ABC NY FHD USA
-http://elitex.me:80/live/cristianne/cristianne/6521.ts
-#EXTINF:-1,USA: AMC HD
-http://elitex.me:80/live/cristianne/cristianne/1792.ts
-#EXTINF:-1,USA: ANIMAL PLANET HD USA
-http://elitex.me:80/live/cristianne/cristianne/1941.ts
-#EXTINF:-1,USA: BRAVO HD
-http://elitex.me:80/live/cristianne/cristianne/6092.ts
-#EXTINF:-1,USA: CARTOON NETWORK
-http://elitex.me:80/live/cristianne/cristianne/1794.ts
-#EXTINF:-1,USA: CBSN HD
-http://elitex.me:80/live/cristianne/cristianne/1795.ts
-#EXTINF:-1,USA: CBS HD
-http://elitex.me:80/live/cristianne/cristianne/6882.ts
-#EXTINF:-1,USA: CNN HD
-http://elitex.me:80/live/cristianne/cristianne/1761.ts
-#EXTINF:-1,USA: CINEMAX ACTION
-http://elitex.me:80/live/cristianne/cristianne/6522.ts
-#EXTINF:-1,USA: CW HD
-http://elitex.me:80/live/cristianne/cristianne/1821.ts
-#EXTINF:-1,USA: CW HD [A]
-http://elitex.me:80/live/cristianne/cristianne/4468.ts
-#EXTINF:-1,USA: DISCOVERY CHANNEL HD
-http://elitex.me:80/live/cristianne/cristianne/1797.ts
-#EXTINF:-1,USA: DISNEY CHANNEL
-http://elitex.me:80/live/cristianne/cristianne/1763.ts
-#EXTINF:-1,USA: DISNEY JR
-http://elitex.me:80/live/cristianne/cristianne/4510.ts
-#EXTINF:-1,USA: DISNEY XD
-http://elitex.me:80/live/cristianne/cristianne/1762.ts
-#EXTINF:-1,USA: FOOD NETWORK HD
-http://elitex.me:80/live/cristianne/cristianne/1946.ts
-#EXTINF:-1,USA: FOX NEWS HD
-http://elitex.me:80/live/cristianne/cristianne/4502.ts
-#EXTINF:-1,USA: HBO
-http://elitex.me:80/live/cristianne/cristianne/1803.ts
-#EXTINF:-1,USA: HGTV HD
-http://elitex.me:80/live/cristianne/cristianne/1891.ts
-#EXTINF:-1,USA: HGTV FHD
-http://elitex.me:80/live/cristianne/cristianne/6074.ts
-#EXTINF:-1,USA: HISTORY HD
-http://elitex.me:80/live/cristianne/cristianne/1824.ts
-#EXTINF:-1,USA: MSNBC
-http://elitex.me:80/live/cristianne/cristianne/1776.ts
-#EXTINF:-1,USA: NEWS 12 NEW JERSEY
-http://elitex.me:80/live/cristianne/cristianne/5787.ts
-#EXTINF:-1,USA: NAT GEO HD
-http://elitex.me:80/live/cristianne/cristianne/7405.ts
-#EXTINF:-1,USA: NICK JR HD
-http://elitex.me:80/live/cristianne/cristianne/4494.ts
-#EXTINF:-1,USA: STARZ EDGE HD
-http://elitex.me:80/live/cristianne/cristianne/6075.ts
-#EXTINF:-1,USA: TBS HD
-http://elitex.me:80/live/cristianne/cristianne/1923.ts
-#EXTINF:-1,USA: TELEMUNDO
-http://elitex.me:80/live/cristianne/cristianne/10680.ts
-#EXTINF:-1,USA: TLC HD
-http://elitex.me:80/live/cristianne/cristianne/1857.ts
-#EXTINF:-1,USA: TNT HD
-http://elitex.me:80/live/cristianne/cristianne/1829.ts
-#EXTINF:-1,CA: GLOBAL TORONTO
-http://elitex.me:80/live/cristianne/cristianne/6119.ts
-#EXTINF:-1,CA: HGTV HD
-http://elitex.me:80/live/cristianne/cristianne/6115.ts
-#EXTINF:-1,[ARG] A&E HD
-http://elitex.me:80/live/cristianne/cristianne/16669.ts
-#EXTINF:-1,[ARG] AMC HD
-http://elitex.me:80/live/cristianne/cristianne/16668.ts
-#EXTINF:-1,[ARG] AXN HD
-http://elitex.me:80/live/cristianne/cristianne/16664.ts
-#EXTINF:-1,[ARG] BOOMERANG HD
-http://elitex.me:80/live/cristianne/cristianne/16663.ts
-#EXTINF:-1,[ARG] CANAL 26 HD
-http://elitex.me:80/live/cristianne/cristianne/16659.ts
-#EXTINF:-1,[ARG] CANAL 9 HD
-http://elitex.me:80/live/cristianne/cristianne/16658.ts
-#EXTINF:-1,[ARG] CARTOON NETWORK HD
-http://elitex.me:80/live/cristianne/cristianne/16655.ts
-#EXTINF:-1,[ARG] CINECANAL HD
-http://elitex.me:80/live/cristianne/cristianne/16653.ts
-#EXTINF:-1,[ARG] CINEMAX HD
-http://elitex.me:80/live/cristianne/cristianne/16652.ts
-#EXTINF:-1,[ARG] DISNEY HD
-http://elitex.me:80/live/cristianne/cristianne/16644.ts
-#EXTINF:-1,[ARG] FOX HD
-http://elitex.me:80/live/cristianne/cristianne/16632.ts
-#EXTINF:-1,[ARG] FOX PREMIUM ACTION HD
-http://elitex.me:80/live/cristianne/cristianne/16629.ts
-#EXTINF:-1,[ARG] FOX PREMIUM MOVIES HD
-http://elitex.me:80/live/cristianne/cristianne/16624.ts
-#EXTINF:-1,[ARG] FOX PREMIUM SERIES HD
-http://elitex.me:80/live/cristianne/cristianne/16623.ts
-#EXTINF:-1,[ARG] HISTORY HD
-http://elitex.me:80/live/cristianne/cristianne/16608.ts
-#EXTINF:-1,[ARG] LIFETIME HD
-http://elitex.me:80/live/cristianne/cristianne/16606.ts
-#EXTINF:-1,[ARG] MAS CHIC HD
-http://elitex.me:80/live/cristianne/cristianne/16604.ts
-#EXTINF:-1,[ARG] MTV HD
-http://elitex.me:80/live/cristianne/cristianne/16603.ts
-#EXTINF:-1,[ARG] MUSIC TOP HD
-http://elitex.me:80/live/cristianne/cristianne/16601.ts
-#EXTINF:-1,[ARG] NAT GEO HD
-http://elitex.me:80/live/cristianne/cristianne/16600.ts
-#EXTINF:-1,[ARG] NAT GEO WILD HD
-http://elitex.me:80/live/cristianne/cristianne/16599.ts
-#EXTINF:-1,[ARG] NATGEO KIDS HD
-http://elitex.me:80/live/cristianne/cristianne/16598.ts
-#EXTINF:-1,[ARG] PARAMOUNT HD
-http://elitex.me:80/live/cristianne/cristianne/16594.ts
-#EXTINF:-1,[ARG] STUDIO UNIVERSAL HD
-http://elitex.me:80/live/cristianne/cristianne/16588.ts
-#EXTINF:-1,[ARG] SYFY HD
-http://elitex.me:80/live/cristianne/cristianne/16587.ts
-#EXTINF:-1,[ARG] TELEMUNDO HD
-http://elitex.me:80/live/cristianne/cristianne/16583.ts
-#EXTINF:-1,[ARG] TELESUR SD
-http://elitex.me:80/live/cristianne/cristianne/16582.ts
-#EXTINF:-1,[ARG] TIERRAMIA TV HD
-http://elitex.me:80/live/cristianne/cristianne/16581.ts
-#EXTINF:-1,[ARG] TNT HD
-http://elitex.me:80/live/cristianne/cristianne/16579.ts
-#EXTINF:-1,[ARG] TOONCAST SD
-http://elitex.me:80/live/cristianne/cristianne/16576.ts
-#EXTINF:-1,[ARG] TRUTV HD
-http://elitex.me:80/live/cristianne/cristianne/16575.ts
-#EXTINF:-1,[ARG] TV5 SD
-http://elitex.me:80/live/cristianne/cristianne/16574.ts
+http://195.181.162.108:80/r9YK3qNjcM/w99qhxEqhb/17390
